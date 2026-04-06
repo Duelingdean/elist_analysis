@@ -19,6 +19,7 @@ Insights and recommendations are provided on the following key areas:
 + **Regional Comparisons:** An evaluation of sales and orders by region.
 
 ## ERD
+We are working with the following tables.
 
 <img width="613" height="349" alt="image" src="https://github.com/user-attachments/assets/e596db49-5155-482d-88ca-148192a303e3" />
 
