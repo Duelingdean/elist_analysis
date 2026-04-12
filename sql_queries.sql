@@ -1,4 +1,4 @@
---1 What were the order counts, sales, and AOV for Macbooks sold in North America for each quarter across all years? 
+--What were the order counts, sales, and AOV for Macbooks sold in North America for each quarter across all years? 
 
 SELECT DATE_TRUNC(orders.purchase_ts, quarter) AS purchase_quarter,
   COUNT(distinct orders.id) AS order_count,
@@ -15,7 +15,7 @@ GROUP BY 1
 ORDER BY 1 DESC;
 
 
---1b What is the average quarterly order count and total sales for Macbooks sold in North America? (i.e. “For North America Macbooks, average of X units sold per quarter and Y in dollar sales per quarter”)
+--What is the average quarterly order count and total sales for Macbooks sold in North America? (i.e. “For North America Macbooks, average of X units sold per quarter and Y in dollar sales per quarter”)
 
 WITH quarterly_metrics AS (
   SELECT DATE_TRUNC(orders.purchase_ts, quarter) AS purchase_quarter,
@@ -36,7 +36,7 @@ SELECT AVG(order_count) AS avg_quarter_orderes,
 FROM quarterly_metrics;
   
   
-  --2 For products purchased in 2022 on the website or products purchased on mobile in any year, which region has the average highest time to deliver? 
+  --For products purchased in 2022 on the website or products purchased on mobile in any year, which region has the average highest time to deliver? 
 
 SELECT geo_lookup.region, 
   ROUND(AVG(DATE_DIFF(order_status.delivery_ts, order_status.purchase_ts, day)), 2) AS time_to_deliver
@@ -53,7 +53,7 @@ GROUP BY 1
 ORDER BY 2 DESC;
 
 
---3 What was the refund rate and refund count for each product overall? 
+--What was the refund rate and refund count for each product overall? 
 
 SELECT
 	CASE WHEN product_name = '27in"" 4k gaming monitor' THEN '27in 4K gaming monitor' ELSE product_name END AS product_clean,
@@ -66,7 +66,7 @@ GROUP BY 1
 ORDER BY 3 DESC;
 
 
---4 Within each region, what is the most popular product? 
+--Within each region, what is the most popular product? 
 
 WITH sales_by_product AS (
   SELECT region,
@@ -85,7 +85,7 @@ FROM sales_by_product
 QUALIFY ROW_NUMBER() OVER (PARTITION BY region ORDER BY total_orders DESC) = 1;
 
 
---5 How does the time to make a purchase differ between loyalty customers vs. non-loyalty customers? 
+--How does the time to make a purchase differ between loyalty customers vs. non-loyalty customers? 
 
 SELECT customers.loyalty_program, 
  	   ROUND(AVG(DATE_DIFF(orders.purchase_ts, customers.created_on, day)),1) AS days_to_purchase,
