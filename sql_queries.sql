@@ -30,6 +30,10 @@ WITH quarterly_metrics AS (
     AND region = 'NA'
  GROUP BY 1
  ORDER BY 1 DESC)
+	
+SELECT AVG(order_count) AS avg_quarter_orderes,
+  AVG(total_sales) AS avg_quarter_sales
+FROM quarterly_metrics;
   
   
   --2 For products purchased in 2022 on the website or products purchased on mobile in any year, which region has the average highest time to deliver? 
@@ -53,7 +57,7 @@ ORDER BY 2 DESC;
 
 SELECT
 	CASE WHEN product_name = '27in"" 4k gaming monitor' THEN '27in 4K gaming monitor' ELSE product_name END AS product_clean,
-    SUM(CAST WHEN refund_ts IS NOT NULL THEN 1 ELSE 0 END) AS refunds,
+    SUM(CASE WHEN refund_ts IS NOT NULL THEN 1 ELSE 0 END) AS refunds,
     Round(AVG(CASE WHEN refund_ts IS NOT NULL THEN 1 ELSE 0 END), 2) AS refund_rate
 FROM core.orders 
 LEFT JOIN core.order_status 
@@ -66,8 +70,8 @@ ORDER BY 3 DESC;
 
 WITH sales_by_product AS (
   SELECT region,
-  		product_name,
-  		COUNT(DISTINCT orders.id) AS total_orders
+  		 product_name,
+  		 COUNT(DISTINCT orders.id) AS total_orders
 FROM core.orders
 LEFT JOIN core.customers
   ON orders.customer_id = customers.id
@@ -76,7 +80,7 @@ LEFT JOIN core.geo_lookup
 GROUP BY 1,2)
 
 SELECT *, 
-	ROW NUMBER() OVER (PARTITION BY region ORDER BY total_orders DESC) AS order_ranking
+	ROW_NUMBER() OVER (PARTITION BY region ORDER BY total_orders DESC) AS order_ranking
 FROM sales_by_product
 QUALIFY ROW_NUMBER() OVER (PARTITION BY region ORDER BY total_orders DESC) = 1;
 
