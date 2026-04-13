@@ -4,9 +4,7 @@
 Sales trends analysis for e-commerce company.
 
 # Overview
-Atlas Electronix, established in 2018, is a global e-commerce company that sells popular electronic products worldwide via its website and mobile app.
-
-The company has significant amounts of data on its sales, marketing efforts, operational efficiency, product offerings, and loyalty program that has been previously underutilized. This project analyzes and synthesizes this data in order to uncover critical insights that will improve Atlas Electronix's commercial success.
+Atlas Electronix, established in 2018, is an e-commerce company that sells popular electronic products worldwide. Through various marketing channels: affiliated marketing, direct mail, email and social media Atlas Electronix reaches a global market.  Products come from major consumer electronics companies such as Apple, Bose, Lenovo and Samsung.  The company has a significant amount of data on its sales, marketing efforts, operational efficiency, product offerings and loyalty program that has been previously underutilized. This project analyzes and synthesizes this data, for the years 2018 - 2022, in order to uncover critical insights that will improve Atlas Electronix's commercial success.
 
 Insights and recommendations are provided on the following key areas:
 
@@ -25,10 +23,44 @@ We are working with the following tables.
 
 # Deep-Dive Insights
 
+
+
+
 # Sales Trends
 
+<img width="1383" height="461" alt="image" src="https://github.com/user-attachments/assets/dab71194-ef85-423e-9266-3926b2dbb6d1" />
+
+
+# Marketing Efforts
+
+The majority of orders came from customers who found the company via a direct reference, 83,912. i.e. Search Engine search results, typing in the company's URL directly.
+
+Email efforts accounted for the second highest orders at 18,553. This could increase with additional email campaign to loyalty club memebers.
+
+Followed by affiliate marketing, 2,900 then social media, 1.293.
+
+<img width="681" height="336" alt="image" src="https://github.com/user-attachments/assets/59fbfbec-0931-4556-b73c-b5b5de5cf7ff" />
+
+
 # Product Trends
+
+
+
+<img width="647" height="336" alt="image" src="https://github.com/user-attachments/assets/6185212e-637c-448d-89ad-3eb9cbf55bc2" />
+
+Majority of products sold were high ticket priced items.  This is great, it accounts for a higher Average Order Value (AoV).
+
 
 # Loyalty Program
 
 # Refund Rates
+
+# Recommendations
+
+Marketing Efforts
+* Look at expanding efforts in other channels
+
+Products
+Consider expanding the product line to include add-n products such as screen cleaners or wipes, 
+Look at low cost items to increase units sold, such as batteries, chargers, charging cords.
+
