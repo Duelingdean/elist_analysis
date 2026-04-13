@@ -28,7 +28,14 @@ We are working with the following tables.
 
 # Sales Trends
 
+Total Sales All Products
 <img width="1383" height="461" alt="image" src="https://github.com/user-attachments/assets/dab71194-ef85-423e-9266-3926b2dbb6d1" />
+
+
+Average Order Value
+<img width="840" height="406" alt="image" src="https://github.com/user-attachments/assets/1453e1dc-d100-4424-a123-e336d3fdc41c" />
+
+
 
 
 # Marketing Efforts
@@ -39,14 +46,19 @@ Email efforts accounted for the second highest orders at 18,553. This could incr
 
 Followed by affiliate marketing, 2,900 then social media, 1.293.
 
-<img width="681" height="336" alt="image" src="https://github.com/user-attachments/assets/59fbfbec-0931-4556-b73c-b5b5de5cf7ff" />
+<img width="481" height="289" alt="image" src="https://github.com/user-attachments/assets/359eb1e7-713a-4917-9c54-35e81735ab6f" />
+
+
+
 
 
 # Product Trends
 
+<img width="481" height="289" alt="image" src="https://github.com/user-attachments/assets/fc272257-de98-4dbb-93d9-52d7728e17fd" />
 
 
-<img width="647" height="336" alt="image" src="https://github.com/user-attachments/assets/6185212e-637c-448d-89ad-3eb9cbf55bc2" />
+
+
 
 Majority of products sold were high ticket priced items.  This is great, it accounts for a higher Average Order Value (AoV).
 
