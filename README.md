@@ -32,7 +32,30 @@ Total Sales All Products
 <img width="1383" height="461" alt="image" src="https://github.com/user-attachments/assets/dab71194-ef85-423e-9266-3926b2dbb6d1" />
 
 
-Average Order Value
+* Yearly Growth Rate
+<img width="402" height="111" alt="image" src="https://github.com/user-attachments/assets/7761284a-6272-4485-920b-5a8df5c97dfd" />
+
+
+
+
+
+
+* Monthly Growth Rate
+
+<img width="462" height="397" alt="image" src="https://github.com/user-attachments/assets/69f96a51-3149-4e49-b8d7-5231a280d772" />
+
+
+
+* Monthly Growth Rate
+
+<img width="453" height="1101" alt="image" src="https://github.com/user-attachments/assets/9fe92826-fdb6-4d19-9c03-24f39b1b96e9" />
+
+
+
+
+
+
+* Average Order Value
 <img width="840" height="406" alt="image" src="https://github.com/user-attachments/assets/1453e1dc-d100-4424-a123-e336d3fdc41c" />
 
 
