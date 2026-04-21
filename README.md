@@ -35,7 +35,7 @@ We are working with the following tables.
 * Total sales during the analysis period 2019-2022 were $28M with 108K total orders.<br>
 * Average Order Sales during this period $260.01.<br>
 * World Health Organization declared Covid-19 pandemic in March 2020.  Worldwide lockdowns and stay at home orders created a sharp spike in sales in early 2020.<br>
-* Some dropoff in sales after pandemic was expected as lockdowns were lift and consumers returned to previous pandemic behavior.<br>
+* Some dropoff in sales after pandemic was expected as lockdowns were lift and consumers returned to pre-pandemic behavior.<br>
 * Sharp dropoff in Sales January 2022 and continued until the holiday shopping season picked up near the end of the year.<br>
 
 <br>
