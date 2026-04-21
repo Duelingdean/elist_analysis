@@ -2,11 +2,11 @@
 
 
 # <p align="center">Atlas Electronix</p>
-<p align="center">Sales trends analysis for e-commerce company.<p>
+<p align="center">Sales trends analysis for an e-commerce company.<p>
 
 
 # Overview
-Atlas Electronix, established in 2018, is an e-commerce company that sells popular electronic products worldwide. Through various marketing channels: affiliated marketing, direct mail, email and social media Atlas Electronix reaches a global market.  Products come from major consumer electronics companies such as Apple, Bose, Lenovo and Samsung.  The company has a significant amount of data on its sales, marketing efforts, operational efficiency, product offerings and loyalty program that has been previously underutilized. This project analyzes and synthesizes this data, for the years 2018 - 2022, in order to uncover critical insights that will improve Atlas Electronix's commercial success.
+Atlas Electronix, established in 2019, is an e-commerce company that sells popular electronic products worldwide. Through various marketing channels: affiliated marketing, direct mail, email and social media Atlas Electronix reaches a global market.  Products come from major consumer electronics companies such as Apple, Bose, Lenovo and Samsung.  The company has a significant amount of data on its sales, marketing efforts, operational efficiency, product offerings and loyalty program that has been previously underutilized. This project analyzes and synthesizes this data, for the years 2019 - 2022, in order to uncover critical insights that will improve Atlas Electronix's commercial success.
 
 Insights and recommendations are provided on the following key areas:
 
@@ -35,8 +35,8 @@ We are working with the following tables.
 * Total sales during the analysis period 2019-2022 were $28M with 108K total orders.<br>
 * Average Order Sales during this period $260.01.<br>
 * World Health Organization declared Covid-19 pandemic in March 2020.  Worldwide lockdowns and stay at home orders created a sharp spike in sales in early 2020.<br>
-* Some dropoff in sales after pandemic was expected as lockdowns were lift and consumers returned to pre-pandemic behavior.<br>
-* Sharp dropoff in Sales January 2022 and continued until the holiday shopping season picked up near the end of the year.<br>
+* Some dropoff in sales after pandemic was expected as lockdowns were lifted and consumers returned to pre-pandemic behavior.<br>
+* Sharp dropoff in Sales January 2022 and continued until the holiday shopping season picked up near the end of the same year.<br>
 
 <br>
 **Total Sales All Products**
@@ -49,40 +49,49 @@ We are working with the following tables.
 <img width="545" height="133" alt="image" src="https://github.com/user-attachments/assets/252dbd3a-999d-47ac-b96d-df817b198313" />
 
 <br>
-
-
-
-
 <br>
-
-
-
-
 
 # Marketing Efforts
 
-The majority of orders came from customers who found the company via a direct reference, 83,912. i.e. Search Engine search results, typing in the company's URL directly.
+* The majority of revenue and orders came from customers who found the company via a direct reference, 83,912. i.e. Search Engine search results, typing in the company's URL directly.
 
-Email efforts accounted for the second highest orders at 18,553. This could increase with additional email campaign to loyalty club memebers.
+* Email efforts accounted for the second highest orders at 18,553. This could increase with additional email campaign to loyalty club memebers.
 
-Followed by affiliate marketing, 2,900 then social media, 1.293.
+* Followed by affiliate marketing, 2,900 then social media, 1.293.
 
 <img width="481" height="289" alt="image" src="https://github.com/user-attachments/assets/359eb1e7-713a-4917-9c54-35e81735ab6f" />
 
+<br>
+
 <!--Annual Sales by Region-->
-* North America is by far the region with highest total sales.<br>
+* North America is by far the region with highest total revenue and orders placed.<br>
 
+<!--Annual Sales by Region-->
+<img width="481" height="289" alt="image" src="https://github.com/user-attachments/assets/9bb934a8-e85c-4296-992b-a182d108fc2e" />
 
+<br>
+
+<!--Order by Region-->
+<img width="481" height="288" alt="image" src="https://github.com/user-attachments/assets/39a2f3f6-b579-4093-a42a-c9296bfd4843" />
+
+<br>
 
 # Product Trends
 <br>
 <!--Total Units Sold by Product-->
-<img width="481" height="289" alt="image" src="https://github.com/user-attachments/assets/fc272257-de98-4dbb-93d9-52d7728e17fd" />
+<img width="481" height="289" alt="image" src="https://github.com/user-attachments/assets/b1b3ce13-1a83-45e6-92b6-e53c4ef6f9fb" />
+
 
 <br>
 
 <!--Total Sales By Product-->
-<img width="769" height="288" alt="image" src="https://github.com/user-attachments/assets/2e42bf2b-de99-46a7-bb04-81c48f994e4e" />
+<img width="769" height="288" alt="image" src="https://github.com/user-attachments/assets/67d21b0a-96f9-4f47-9d23-17fa7d9a56c0" />
+
+<br>
+
+<!--AoV by product-->
+<img width="769" height="288" alt="image" src="https://github.com/user-attachments/assets/d9be724a-2e8c-40ed-8bc9-d308a9c324aa" />
+
 
 <br>
 
