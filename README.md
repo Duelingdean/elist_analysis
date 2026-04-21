@@ -1,7 +1,9 @@
-<img width="768" height="512" alt="Atlas_Electronix_logo" src="https://github.com/user-attachments/assets/e110aa18-0b12-429d-8c4a-26812054f4b0" />
+<p aligh"center"><img width="768" height="512" alt="Atlas_Electronix_logo" src="https://github.com/user-attachments/assets/e110aa18-0b12-429d-8c4a-26812054f4b0" /></p>
 
-# Atlas Electronix
-Sales trends analysis for e-commerce company.
+
+# <p align="center">Atlas Electronix</p>
+<p align="center">Sales trends analysis for e-commerce company.<p>
+
 
 # Overview
 Atlas Electronix, established in 2018, is an e-commerce company that sells popular electronic products worldwide. Through various marketing channels: affiliated marketing, direct mail, email and social media Atlas Electronix reaches a global market.  Products come from major consumer electronics companies such as Apple, Bose, Lenovo and Samsung.  The company has a significant amount of data on its sales, marketing efforts, operational efficiency, product offerings and loyalty program that has been previously underutilized. This project analyzes and synthesizes this data, for the years 2018 - 2022, in order to uncover critical insights that will improve Atlas Electronix's commercial success.
@@ -28,27 +30,19 @@ We are working with the following tables.
 
 # Sales Trends
 
-Total Sales All Products
+
+
+**Total Sales All Products**
+<!-- Monthly Sales -->
 <img width="1383" height="461" alt="image" src="https://github.com/user-attachments/assets/dab71194-ef85-423e-9266-3926b2dbb6d1" />
 
+<br>
 
-* Yearly Growth Rate
-<img width="402" height="111" alt="image" src="https://github.com/user-attachments/assets/7761284a-6272-4485-920b-5a8df5c97dfd" />
+<!-- AoV Growth All Customers -->
+<img width="545" height="133" alt="image" src="https://github.com/user-attachments/assets/252dbd3a-999d-47ac-b96d-df817b198313" />
 
-
-
-
-
-
-* Monthly Growth Rate
-
-<img width="462" height="397" alt="image" src="https://github.com/user-attachments/assets/69f96a51-3149-4e49-b8d7-5231a280d772" />
-
-
-
-* Monthly Growth Rate
-
-<img width="453" height="1101" alt="image" src="https://github.com/user-attachments/assets/9fe92826-fdb6-4d19-9c03-24f39b1b96e9" />
+<br>
+Total Sales All Products quarterly
 
 
 
@@ -56,7 +50,8 @@ Total Sales All Products
 
 
 * Average Order Value
-<img width="840" height="406" alt="image" src="https://github.com/user-attachments/assets/1453e1dc-d100-4424-a123-e336d3fdc41c" />
+<br>
+
 
 
 
@@ -76,17 +71,36 @@ Followed by affiliate marketing, 2,900 then social media, 1.293.
 
 
 # Product Trends
-
+<br>
+<!--Total Units Sold by Product-->
 <img width="481" height="289" alt="image" src="https://github.com/user-attachments/assets/fc272257-de98-4dbb-93d9-52d7728e17fd" />
 
+<br>
 
+<!--Total Sales By Product-->
+<img width="769" height="288" alt="image" src="https://github.com/user-attachments/assets/2e42bf2b-de99-46a7-bb04-81c48f994e4e" />
 
-
+<br>
 
 Majority of products sold were high ticket priced items.  This is great, it accounts for a higher Average Order Value (AoV).
 
 
 # Loyalty Program
+<br>
+* The loyalty program started in YYYY and has an upward growth.  
+* Non-loyalty program customers had higher AoV 2019 - 2021 then Loyalty Program customers AoV became $30.00 higher.
+<br>
+<!--AoV Growth Non Loyalty Program Customers-->
+<img width="545" height="133" alt="image" src="https://github.com/user-attachments/assets/b7bfd8a3-557b-4652-9dec-0479114780c8" />
+
+<br>
+
+<!--AoV Growth Loyalty Program Customers-->
+<img width="545" height="133" alt="image" src="https://github.com/user-attachments/assets/0a692d40-3705-488b-9c6b-b706b8e96a5b" />
+
+<br>
+
+
 
 # Refund Rates
 
