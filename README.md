@@ -23,17 +23,24 @@ We are working with the following tables.
 
 <img width="613" height="349" alt="image" src="https://github.com/user-attachments/assets/e596db49-5155-482d-88ca-148192a303e3" />
 
-# Deep-Dive Insights
+<br>
+
+# <p align="center">Deep-Dive Insights</p>
+
+<br>
 
 
+## Sales Trends
+<br>
+* Total sales during the analysis period 2019-2022 were $28M with 108K total orders.<br>
+* Average Order Sales during this period $260.01.<br>
+* World Health Organization declared Covid-19 pandemic in March 2020.  Worldwide lockdowns and stay at home orders created a sharp spike in sales in early 2020.<br>
+* Some dropoff in sales after pandemic was expected as lockdowns were lift and consumers returned to previous pandemic behavior.<br>
+* Sharp dropoff in Sales January 2022 and continued until the holiday shopping season picked up near the end of the year.<br>
 
-
-# Sales Trends
-
-
-
+<br>
 **Total Sales All Products**
-<!-- Monthly Sales -->
+<!-- Monthly Sales Line chart -->
 <img width="1383" height="461" alt="image" src="https://github.com/user-attachments/assets/dab71194-ef85-423e-9266-3926b2dbb6d1" />
 
 <br>
@@ -42,14 +49,10 @@ We are working with the following tables.
 <img width="545" height="133" alt="image" src="https://github.com/user-attachments/assets/252dbd3a-999d-47ac-b96d-df817b198313" />
 
 <br>
-Total Sales All Products quarterly
 
 
 
 
-
-
-* Average Order Value
 <br>
 
 
@@ -66,7 +69,8 @@ Followed by affiliate marketing, 2,900 then social media, 1.293.
 
 <img width="481" height="289" alt="image" src="https://github.com/user-attachments/assets/359eb1e7-713a-4917-9c54-35e81735ab6f" />
 
-
+<!--Annual Sales by Region-->
+* North America is by far the region with highest total sales.<br>
 
 
 
@@ -87,29 +91,42 @@ Majority of products sold were high ticket priced items.  This is great, it acco
 
 # Loyalty Program
 <br>
-* The loyalty program started in YYYY and has an upward growth.  
+* The loyalty program started in YYYY and has an upward growth.  <br>
 * Non-loyalty program customers had higher AoV 2019 - 2021 then Loyalty Program customers AoV became $30.00 higher.
 <br>
+<!-- Setting two images side by side-->
 <!--AoV Growth Non Loyalty Program Customers-->
+<p align = "center">
 <img width="545" height="133" alt="image" src="https://github.com/user-attachments/assets/b7bfd8a3-557b-4652-9dec-0479114780c8" />
 
 <br>
 
 <!--AoV Growth Loyalty Program Customers-->
 <img width="545" height="133" alt="image" src="https://github.com/user-attachments/assets/0a692d40-3705-488b-9c6b-b706b8e96a5b" />
-
+</p>
 <br>
 
+<!--Loyalty Program Sales Line Chart by quarter-->
+<br>
+<img width="1280" height="496" alt="image" src="https://github.com/user-attachments/assets/9aad594e-b7c5-414e-8db5-eb769e03518e" />
 
+<br>
 
 # Refund Rates
 
 # Recommendations
 
 Marketing Efforts
-* Look at expanding efforts in other channels
+* Look at expanding efforts in marketing channels, email, affiliate marketing and social media.
+* Look at better market traking effors to reduce or eliminate "unknown" sources.
+* 
 
 Products
-Consider expanding the product line to include add-n products such as screen cleaners or wipes, 
-Look at low cost items to increase units sold, such as batteries, chargers, charging cords.
+* Consider expanding the product line to include add-on products such as 
+* Look at low cost items to increase units sold, such as batteries, chargers, charging cords, screen cleaners, batteries, etc. to create a one stop shopping experience for consumers.
+
+Loyalty Program
+* Continue with the loyalty program.  Continued growth of this program has increased sales.
+* Working with marketing consider member discounts, monthly specials to entice subscriptions to loyalty program and return customers.  Give them something to want to be a member.
+* 
 
