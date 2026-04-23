@@ -8,7 +8,7 @@
 # Overview
 Atlas Electronix, established in 2019, is an e-commerce company that sells popular electronic products worldwide. Through various marketing channels: affiliated marketing, direct mail, email and social media Atlas Electronix reaches a global market.  Products come from major consumer electronics companies such as Apple, Bose, Lenovo and Samsung.  The company has a significant amount of data on its sales, marketing efforts, operational efficiency, product offerings and loyalty program that has been previously underutilized. This project analyzes and synthesizes this data, for the years 2019 - 2022, in order to uncover critical insights that will improve Atlas Electronix's commercial success.
 
-Insights and recommendations are provided on the following key areas:
+Analysis, insights and recommendations are provided on the following key areas:
 
 - **Sales Trends Analysis:** Evaluation of historical sales patterns, both globally and by region, focusing on Revenue, Order Volume, and Average Order Value (AOV).
 
@@ -20,7 +20,7 @@ Insights and recommendations are provided on the following key areas:
 
 ## ERD
 We are working with the following tables.
-
+<!--Image of ERD-->
 <img width="613" height="349" alt="image" src="https://github.com/user-attachments/assets/e596db49-5155-482d-88ca-148192a303e3" />
 
 <br>
@@ -39,14 +39,25 @@ We are working with the following tables.
 * Sharp dropoff in Sales January 2022 and continued until the holiday shopping season picked up near the end of the same year.<br>
 
 <br>
-**Total Sales All Products**
-<!-- Monthly Sales Line chart -->
-<img width="1383" height="461" alt="image" src="https://github.com/user-attachments/assets/dab71194-ef85-423e-9266-3926b2dbb6d1" />
+
+<!-- Quarterly Sales Line chart -->
+<img width="961" height="384" alt="image" src="https://github.com/user-attachments/assets/b8e33785-c0b9-4ac8-bde5-fc9cfb233b5c" />
+
+<br>
+
+<!--Order Counts by Quarter-->
+<img width="960" height="385" alt="image" src="https://github.com/user-attachments/assets/4426be12-60d3-47f5-a15f-83fed47fed4e" />
+
+<br>
+
+<!--Average Order Value-->
+<img width="961" height="384" alt="image" src="https://github.com/user-attachments/assets/41886fc9-51c9-4f4b-a546-8fbb2b8b1ca6" />
+
 
 <br>
 
 <!-- AoV Growth All Customers -->
-<img width="545" height="133" alt="image" src="https://github.com/user-attachments/assets/252dbd3a-999d-47ac-b96d-df817b198313" />
+
 
 <br>
 <br>
@@ -124,6 +135,20 @@ Majority of products sold were high ticket priced items.  This is great, it acco
 # Refund Rates
 
 # Recommendations
+<br>
+
+| Priority |    Recommendation    | Support Finding
+| :------- | :---------------: | :---
+|   High   |  Expand Market channels | Page 2
+
+<br>
+
+| Left columns  | Right columns |
+| ------------- |:-------------:|
+| left foo      | right foo     |
+| left bar      | right bar     |
+| left baz      | right baz     |
+
 
 Marketing Efforts
 * Look at expanding efforts in marketing channels, email, affiliate marketing and social media.
