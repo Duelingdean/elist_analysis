@@ -162,6 +162,7 @@ Majority of products sold were high ticket priced items.  This is great, it acco
 | Priority |    Recommendation    | Support Finding
 | :------- | :---------------: | :---
 |   High   |  Expand Market channels | Page 2
+| High | Review Refund Policy |
 
 <br>
 
