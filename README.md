@@ -144,6 +144,18 @@ Majority of products sold were high ticket priced items.  This is great, it acco
 
 # Refund Rates
 
+<br>
+
+<!--Table of refunds by year-->
+<img width="338" height="110" alt="image" src="https://github.com/user-attachments/assets/6ff64964-d1d3-4097-b01a-dfa81540b6b2" />
+
+<br>
+
+<!--Table of Days of refund after purchase-->
+<img width="380" height="89" alt="image" src="https://github.com/user-attachments/assets/ad692d10-212d-4b57-a707-2c40a51fb6fc" />
+
+<br>
+
 # Recommendations
 <br>
 
