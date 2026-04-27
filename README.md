@@ -34,17 +34,20 @@ We are working with the following tables.
 <br>
 
 <!-- Monthly Sales Line chart -->
-<img width="1057" height="481" alt="image" src="https://github.com/user-attachments/assets/3468d8ae-16b2-4c36-baab-f3d9d41a33d8" />
+<img width="1057" height="481" alt="image" src="https://github.com/user-attachments/assets/06de589d-08e7-46dc-828a-cb79ec230744" />
+
 
 <br>
 
 <!--Order Counts by Month-->
-<img width="1057" height="481" alt="image" src="https://github.com/user-attachments/assets/003a6e95-3238-443e-9196-441cfb31c024" />
+<img width="1057" height="481" alt="image" src="https://github.com/user-attachments/assets/54f3f2c1-0f23-41a5-8a82-206ccb3239ad" />
+
 
 <br>
 
 <!--Average Order Value-->
-<img width="1057" height="481" alt="image" src="https://github.com/user-attachments/assets/6fd7e50c-3e6e-4d2b-b1f6-538b2bc6e9b3" />
+<img width="1057" height="481" alt="image" src="https://github.com/user-attachments/assets/387ae056-32e9-49eb-a5ef-4ee597ebf9e1" />
+
 
 
 <br>
