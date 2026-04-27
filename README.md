@@ -29,40 +29,51 @@ We are working with the following tables.
 
 <br>
 
-
 ## Sales Trends
-<br>
-* Total sales during the analysis period 2019-2022 were $28M with 108K total orders.<br>
-* Average Order Sales during this period $260.01.<br>
-* World Health Organization declared Covid-19 pandemic in March 2020.  Worldwide lockdowns and stay at home orders created a sharp spike in sales in early 2020.<br>
-* Some dropoff in sales after pandemic was expected as lockdowns were lifted and consumers returned to pre-pandemic behavior.<br>
-* Sharp dropoff in Sales January 2022 and continued until the holiday shopping season picked up near the end of the same year.<br>
 
 <br>
 
-<!-- Quarterly Sales Line chart -->
-<img width="961" height="384" alt="image" src="https://github.com/user-attachments/assets/b8e33785-c0b9-4ac8-bde5-fc9cfb233b5c" />
+<!-- Monthly Sales Line chart -->
+<img width="1057" height="481" alt="image" src="https://github.com/user-attachments/assets/3468d8ae-16b2-4c36-baab-f3d9d41a33d8" />
 
 <br>
 
-<!--Order Counts by Quarter-->
-<img width="960" height="385" alt="image" src="https://github.com/user-attachments/assets/4426be12-60d3-47f5-a15f-83fed47fed4e" />
+<!--Order Counts by Month-->
+<img width="1057" height="481" alt="image" src="https://github.com/user-attachments/assets/003a6e95-3238-443e-9196-441cfb31c024" />
 
 <br>
 
 <!--Average Order Value-->
-<img width="961" height="384" alt="image" src="https://github.com/user-attachments/assets/41886fc9-51c9-4f4b-a546-8fbb2b8b1ca6" />
+<img width="1057" height="481" alt="image" src="https://github.com/user-attachments/assets/6fd7e50c-3e6e-4d2b-b1f6-538b2bc6e9b3" />
 
 
 <br>
 
 <!-- AoV Growth All Customers -->
 
-
 <br>
+
+* Total sales during the analysis period 2019-2022 were $28M with 108K total orders.<br>
+* Average Order Sales during this period $260.01.<br>
+* World Health Organization declared Covid-19 pandemic in March 2020.  With the worldwide lockdowns and stay at home orders in place, this created a sharp spike in sales in early 2020.<br>
+* After the initial spike in sales there is a noticable decline in sales, orders and AoV.
+* Sharp dropoff in Sales January 2022 and continued until the holiday shopping season picked up near the end of the same year.<br>
+
 <br>
 
 # Marketing Efforts
+
+<br>
+
+<!--Marketing Effectiveness-->
+<img width="481" height="289" alt="image" src="https://github.com/user-attachments/assets/0a5708fa-afa6-48fe-8777-021fd230a8fd" />
+
+<br>
+
+<!--Marketing Channel Effectiveness by Region-->
+<img width="673" height="385" alt="image" src="https://github.com/user-attachments/assets/7f4744ea-8cd1-4e1b-ab9f-55119510a9b1" />
+
+<br>
 
 * The majority of revenue and orders came from customers who found the company via a direct reference, 83,912. i.e. Search Engine search results, typing in the company's URL directly.
 
