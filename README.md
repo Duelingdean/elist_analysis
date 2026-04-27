@@ -69,12 +69,12 @@ We are working with the following tables.
 <br>
 
 <!--Marketing Effectiveness-->
-<img width="481" height="289" alt="image" src="https://github.com/user-attachments/assets/0a5708fa-afa6-48fe-8777-021fd230a8fd" />
+<img width="481" height="289" alt="image" src="https://github.com/user-attachments/assets/359eb1e7-713a-4917-9c54-35e81735ab6f" />
 
 <br>
 
 <!--Marketing Channel Effectiveness by Region-->
-<img width="673" height="385" alt="image" src="https://github.com/user-attachments/assets/7f4744ea-8cd1-4e1b-ab9f-55119510a9b1" />
+<img width="370" height="133" alt="image" src="https://github.com/user-attachments/assets/f0d5bb24-50ea-463d-a8f6-6e1959bf7f95" />
 
 <br>
 
@@ -83,8 +83,6 @@ We are working with the following tables.
 * Email efforts accounted for the second highest orders at 18,553. This could increase with additional email campaign to loyalty club memebers.
 
 * Followed by affiliate marketing, 2,900 then social media, 1.293.
-
-<img width="481" height="289" alt="image" src="https://github.com/user-attachments/assets/359eb1e7-713a-4917-9c54-35e81735ab6f" />
 
 <br>
 
@@ -125,24 +123,22 @@ Majority of products sold were high ticket priced items.  This is great, it acco
 
 # Loyalty Program
 <br>
-* The loyalty program started in YYYY and has an upward growth.  <br>
-* Non-loyalty program customers had higher AoV 2019 - 2021 then Loyalty Program customers AoV became $30.00 higher.
+
+<!--Sales by Loyalty Status-->
+<img width="1057" height="481" alt="image" src="https://github.com/user-attachments/assets/5f3eeee0-4944-42ff-b19f-40f58a660516" />
+
 <br>
-<!-- Setting two images side by side-->
-<!--AoV Growth Non Loyalty Program Customers-->
-<p align = "center">
-<img width="545" height="133" alt="image" src="https://github.com/user-attachments/assets/b7bfd8a3-557b-4652-9dec-0479114780c8" />
+
+<!--Number of Orders by Loyalty Status-->
+<img width="1196" height="481" alt="image" src="https://github.com/user-attachments/assets/dc9f7f38-779d-4e81-9246-668f8504588c" />
 
 <br>
 
 <!--AoV Growth Loyalty Program Customers-->
-<img width="545" height="133" alt="image" src="https://github.com/user-attachments/assets/0a692d40-3705-488b-9c6b-b706b8e96a5b" />
-</p>
-<br>
 
-<!--Loyalty Program Sales Line Chart by quarter-->
+* The loyalty program started in YYYY and has an upward growth.  <br>
+* Non-loyalty program customers had higher AoV 2019 - 2021 then Loyalty Program customers AoV became $30.00 higher.
 <br>
-<img width="1280" height="496" alt="image" src="https://github.com/user-attachments/assets/9aad594e-b7c5-414e-8db5-eb769e03518e" />
 
 <br>
 
