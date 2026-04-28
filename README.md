@@ -73,16 +73,10 @@ We are working with the following tables.
 
 <br>
 
-<!--Marketing Effectiveness-->
-<img width="481" height="289" alt="image" src="https://github.com/user-attachments/assets/359eb1e7-713a-4917-9c54-35e81735ab6f" />
+<!--Marketing charts channels and regions-->
+<p align="left"><img width="784" height="127" alt="image" src="https://github.com/user-attachments/assets/71a41550-0be2-4a82-ac0a-03baec02920b" /></p>
 
 <br>
-
-<!--Marketing Channel Effectiveness by Region-->
-<img width="370" height="133" alt="image" src="https://github.com/user-attachments/assets/f0d5bb24-50ea-463d-a8f6-6e1959bf7f95" />
-
-<br>
-
 
 <!--Annual Sales by Region-->
 
@@ -106,18 +100,16 @@ We are working with the following tables.
 
 <br>
 
-* The majority of revenue and orders came from customers who found the company via a direct reference, 83,912. i.e. Search Engine search results, typing in the company's URL directly.
-* Email efforts accounted for the second highest orders at 18,553. This could increase with additional email campaign to loyalty club memebers.
-* Followed by affiliate marketing, 2,900 then social media, 1.293.
-* North America is by far the region with highest total revenue and orders placed.<br>
+* There is a correlation between marketing channels and regional sales and order counts.
+* The North American (NA) region
 
 <br>
 
 # Product Trends
 <br>
-<!--Total Units Sold by Product-->
-<img width="481" height="289" alt="image" src="https://github.com/user-attachments/assets/b1b3ce13-1a83-45e6-92b6-e53c4ef6f9fb" />
 
+<!--Total Units Sold by Product-->
+<p align"center"><img width="481" height="289" alt="image" src="https://github.com/user-attachments/assets/b1b3ce13-1a83-45e6-92b6-e53c4ef6f9fb" /><p>
 
 <br>
 
@@ -129,11 +121,12 @@ We are working with the following tables.
 <!--AoV by product-->
 <img width="769" height="288" alt="image" src="https://github.com/user-attachments/assets/d9be724a-2e8c-40ed-8bc9-d308a9c324aa" />
 
-
 <br>
 
-Majority of products sold were high ticket priced items.  This is great, it accounts for a higher Average Order Value (AoV).
-
+* Standout issue, Bose Soundsport Headphones, with only 27 units sold in the analysis period, this is a dead sku.  Need to evaluate if shelf space could be better used for a product in demand.
+* Majority of units sold and revenue come from two products Apple Airpods Headphones and 27in 4K gaming monitor.
+<p align="center"><img width="423" height="85" alt="image" src="https://github.com/user-attachments/assets/a0426e9d-26cf-4900-b8ba-27a1dc3b2e20" /><p>
+<br>
 
 # Loyalty Program
 <br>
