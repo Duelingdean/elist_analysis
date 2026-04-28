@@ -123,9 +123,10 @@ We are working with the following tables.
 
 <br>
 
-* Standout issue, Bose Soundsport Headphones, with only 27 units sold in the analysis period, this is a dead sku.  Need to evaluate if shelf space could be better used for a product in demand.
-* Majority of units sold and revenue come from two products Apple Airpods Headphones and 27in 4K gaming monitor.
+* Standout issue, Bose Soundsport Headphones, with only 27 units sold in the analysis period, this is a dead sku.  Need to evaluate if shelf space could be better used for a product in demand. Or direct efforts to highlight this product with promotions.
+* Majority of units sold and revenue come from two products Apple Airpods Headphones and 27in 4K gaming monitor.  With more than 60% sales and orders, supply chain interuption could be problematic and detrimental to revenue and profitability.
 <p align="center"><img width="423" height="85" alt="image" src="https://github.com/user-attachments/assets/a0426e9d-26cf-4900-b8ba-27a1dc3b2e20" /><p>
+* 
 <br>
 
 # Loyalty Program
