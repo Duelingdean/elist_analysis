@@ -56,6 +56,11 @@ We are working with the following tables.
 
 <br>
 
+<!--Seasonal Trends-->
+### <p align="center">Seasonal Trends</p>
+<p align="center"><img width="770" height="287" alt="image" src="https://github.com/user-attachments/assets/10a433b8-20eb-448a-a920-754e89108ffa" /><p>
+
+
 * Total sales during the analysis period 2019-2022 were $28M with 108K total orders.<br>
 * Average Order Sales during this period $260.01.<br>
 * World Health Organization declared Covid-19 pandemic in March 2020.  With the worldwide lockdowns and stay at home orders in place, this created a sharp spike in sales in early 2020.<br>
