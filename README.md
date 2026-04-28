@@ -102,6 +102,7 @@ We are working with the following tables.
 
 * There is a correlation between marketing channels and regional sales and order counts.
 * The North American (NA) region
+* 
 
 <br>
 
@@ -166,12 +167,15 @@ We are working with the following tables.
 
 <br>
 
+* Signifcant profit loss with such a lazefair attatude to refunds.  Refunds were authorized as much as 4+ years after the purchase date.
+
 # Recommendations
 <br>
 
-| Priority |    Recommendation    | Support Finding
+| Priority |    Recommendation    | Department
 | :------- | :---------------: | :---
-|   High   |  Expand Market channels | Page 2
+|   High   |  Expand Market channels | Marketing
+| Medium | Expand marketing efforts in LATAM region | Marketing
 | High | Review Refund Policy |
 
 <br>
