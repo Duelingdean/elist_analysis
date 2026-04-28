@@ -78,24 +78,33 @@ We are working with the following tables.
 
 <br>
 
-* The majority of revenue and orders came from customers who found the company via a direct reference, 83,912. i.e. Search Engine search results, typing in the company's URL directly.
 
-* Email efforts accounted for the second highest orders at 18,553. This could increase with additional email campaign to loyalty club memebers.
-
-* Followed by affiliate marketing, 2,900 then social media, 1.293.
+<!--Annual Sales by Region-->
 
 <br>
 
-<!--Annual Sales by Region-->
-* North America is by far the region with highest total revenue and orders placed.<br>
-
-<!--Annual Sales by Region-->
-<img width="481" height="289" alt="image" src="https://github.com/user-attachments/assets/9bb934a8-e85c-4296-992b-a182d108fc2e" />
-
+<table>
+  <tr>
+    <td align="center">
+      <!--Annual Sales by Region-->
+      <img width="390" height="234" alt="image" src="https://github.com/user-attachments/assets/9bb934a8-e85c-4296-992b-a182d108fc2e" />
+<!--changed width="481" to 390 and height from "289" to 234-->
 <br>
-
+    </td>
+<td align="center">
 <!--Order by Region-->
-<img width="481" height="288" alt="image" src="https://github.com/user-attachments/assets/39a2f3f6-b579-4093-a42a-c9296bfd4843" />
+<img width="390" height="234" alt="image" src="https://github.com/user-attachments/assets/39a2f3f6-b579-4093-a42a-c9296bfd4843" />
+<br>
+</td>
+  </tr>
+</table>
+
+<br>
+
+* The majority of revenue and orders came from customers who found the company via a direct reference, 83,912. i.e. Search Engine search results, typing in the company's URL directly.
+* Email efforts accounted for the second highest orders at 18,553. This could increase with additional email campaign to loyalty club memebers.
+* Followed by affiliate marketing, 2,900 then social media, 1.293.
+* North America is by far the region with highest total revenue and orders placed.<br>
 
 <br>
 
