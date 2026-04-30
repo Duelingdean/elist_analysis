@@ -1,5 +1,6 @@
 <p aligh"center"><img width="768" height="512" alt="Atlas_Electronix_logo" src="https://github.com/user-attachments/assets/e110aa18-0b12-429d-8c4a-26812054f4b0" /></p>
 
+<!--Color and hex codes:  Purple = #7059A5 and Green = #67AD47-->
 
 # <p align="center">Atlas Electronix</p>
 <p align="center">Sales trends analysis for an e-commerce company.<p>
@@ -36,13 +37,13 @@ We are working with the following tables.
 <table>
   <tr>
     <td align="center" width="33%">
-     <img width="390" height="390" alt="image" src="https://github.com/user-attachments/assets/4cf45a46-3434-4a34-a096-0ba12fdb49c6" />
+  <img width="390" height="390" alt="image" src="https://github.com/user-attachments/assets/44a16d0c-2ae9-40d9-a68c-e5bd37c7974b" />
      </td>
     <td align="center" width="33%">
-     <img width="390" height="390" alt="image" src="https://github.com/user-attachments/assets/953291ee-d0ee-465d-a165-c955fe04f74a" />
+     <img width="390" height="390" alt="image" src="https://github.com/user-attachments/assets/8f772f85-0580-4eae-9cbf-7c3bcc8261f2" />
     </td>
     <td align="center" width="33%">
-    <img width="390" height="390" alt="image" src="https://github.com/user-attachments/assets/290486af-e5e3-4c9d-94da-40984309d050" />
+    <img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/f023729c-033a-4cde-8267-92e25fb21bb9" />
      </td>
   </tr>
 </table>
@@ -103,17 +104,18 @@ We are working with the following tables.
 <br>
 
 <!--Total Units Sold by Product-->
-<p align"center"><img width="481" height="289" alt="image" src="https://github.com/user-attachments/assets/b1b3ce13-1a83-45e6-92b6-e53c4ef6f9fb" /><p>
+<p align="center"><img width="481" height="292" alt="image" src="https://github.com/user-attachments/assets/d3423f01-e75a-45e2-b3e7-1b50156370a6" /></p>
+
 
 <br>
 
 <!--Total Sales By Product-->
-<img width="769" height="288" alt="image" src="https://github.com/user-attachments/assets/67d21b0a-96f9-4f47-9d23-17fa7d9a56c0" />
+<img width="768" height="288" alt="image" src="https://github.com/user-attachments/assets/09abcac6-3357-407d-ad21-f96da66bfdc8" />
 
 <br>
 
 <!--AoV by product-->
-<img width="769" height="288" alt="image" src="https://github.com/user-attachments/assets/d9be724a-2e8c-40ed-8bc9-d308a9c324aa" />
+<img width="768" height="288" alt="image" src="https://github.com/user-attachments/assets/c7a4d934-2e79-44fd-b64b-3e785146ceb0" />
 
 <br>
 
