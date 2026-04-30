@@ -33,26 +33,19 @@ We are working with the following tables.
 
 <br>
 
-<!-- Monthly Sales Line chart -->
-<img width="1057" height="481" alt="image" src="https://github.com/user-attachments/assets/06de589d-08e7-46dc-828a-cb79ec230744" />
-
-
-<br>
-
-<!--Order Counts by Month-->
-<img width="1057" height="481" alt="image" src="https://github.com/user-attachments/assets/54f3f2c1-0f23-41a5-8a82-206ccb3239ad" />
-
-
-<br>
-
-<!--Average Order Value-->
-<img width="1057" height="481" alt="image" src="https://github.com/user-attachments/assets/387ae056-32e9-49eb-a5ef-4ee597ebf9e1" />
-
-
-
-<br>
-
-<!-- AoV Growth All Customers -->
+<table>
+  <tr>
+    <td align="center" width="33%">
+     <img width="390" height="390" alt="image" src="https://github.com/user-attachments/assets/4cf45a46-3434-4a34-a096-0ba12fdb49c6" />
+     </td>
+    <td align="center" width="33%">
+     <img width="390" height="390" alt="image" src="https://github.com/user-attachments/assets/953291ee-d0ee-465d-a165-c955fe04f74a" />
+    </td>
+    <td align="center" width="33%">
+    <img width="390" height="390" alt="image" src="https://github.com/user-attachments/assets/290486af-e5e3-4c9d-94da-40984309d050" />
+     </td>
+  </tr>
+</table>
 
 <br>
 
@@ -65,7 +58,7 @@ We are working with the following tables.
 * Average Order Sales during this period $260.01.<br>
 * World Health Organization declared Covid-19 pandemic in March 2020.  With the worldwide lockdowns and stay at home orders in place, this created a sharp spike in sales in early 2020.<br>
 * After the initial spike in sales there is a noticable decline in sales, orders and AoV.
-* Sharp dropoff in Sales January 2022 and continued until the holiday shopping season picked up near the end of the same year.<br>
+* Sharp dropoff in Sales January 2022 and continued until the holiday shopping season picked up near the end of the same year. Reason is unknown at this time.  Questions to ask about what happened here: What marketing campaigns were active at this time?  What Social Media activity was driven by us or has it always been consumer driven?<br>
 
 <br>
 
@@ -124,8 +117,8 @@ We are working with the following tables.
 
 <br>
 
-* Standout issue, Bose Soundsport Headphones, with only 27 units sold in the analysis period, this is a dead sku.  Need to evaluate if shelf space could be better used for a product in demand. Or direct efforts to highlight this product with promotions.
-* Majority of units sold and revenue come from two products Apple Airpods Headphones and 27in 4K gaming monitor.  With more than 60% sales and orders, supply chain interuption could be problematic and detrimental to revenue and profitability.
+* Standout issue, Bose Soundsport Headphones, with only 27 units sold in the analysis period, this is a dead sku.  Need to evaluate if shelf space could be better used for a product in demand. Alternatively, direct efforts to highlight this product with promotions to increase sales.
+* Majority of units sold and revenue come from half of the product line Apple Airpods Headphones, 27in 4K gaming monitor, Macbook Air Laptop and ThinkPad Laptop.  With more than 95% of sales and 93% of orders, if there is any supply chain interuption this could be problematic and detrimental to revenue and profitability.
 <p align="center"><img width="423" height="85" alt="image" src="https://github.com/user-attachments/assets/a0426e9d-26cf-4900-b8ba-27a1dc3b2e20" /><p>
 <br>
 * Social Media is the poorest generation of sales and orders.  Need to look at the campaigns used in Social Media.  If there were no campaigns then Social Media users may have been the driving factor influencing sales in this channel.
@@ -147,8 +140,9 @@ We are working with the following tables.
 
 <!--AoV Growth Loyalty Program Customers-->
 
-* The loyalty program started in YYYY and has an upward growth.  <br>
+* The loyalty program started in YYYY and has an upward growth. After two years customers in the Loyalty program showed more sales than non-Loyalty program customers. <br>
 * Non-loyalty program customers had higher AoV 2019 - 2021 then Loyalty Program customers AoV became $30.00 higher.
+* Recommendation: Keep the loyalty program.  Increase marketing efforts to members of the loyalty program.  This could help stabilize the downward trend after 2022.
 <br>
 
 <br>
