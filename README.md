@@ -53,7 +53,6 @@ We are working with the following tables.
 * Total sales during the analysis period 2019-2022 were $28M with 108K total orders this gives us a four year AoV of $253.<br>
 * After opening January 2019, there was a moderate increase in sales and orders.  March 2020 the World Health Organization declared Covid-19 pandemic.  With the worldwide lockdowns and stay at home orders in place, this created a sharp spike in sales in March 2020 of 50% over the previous month.<br>
 
-
 <br>
 
 <!--Seasonal Trends-->
@@ -63,6 +62,8 @@ We are working with the following tables.
 <br>
 
 * This anomaly in sales is not sustainable for the long term.  Even with the usual holiday increases November and December, overall sales and orders began to decrease January 2021.
+* Long term decline in financial metrics continued, with expected surges in August and September, (the start of the school year) and the holday months November and December.  The cause of the steady decline after the peak of December 2020 is unknown.  Further analysis of active marketing campaigns since December 2020 are needed to identify the cause(s).  Another factor that could account for the decline in sales may be related to supply chain disruptions that effected many industries worldwide.
+* Sharp dropoff in Sales January 2022 and continued until the holiday shopping season picked up near the end of the same year. Reason is unknown at this time.  Questions to ask about what happened here: What marketing campaigns were active at this time?  What Social Media activity was driven by us or has it always been consumer driven? What, if any, impact of supply chain disruption may have caused the downward trend.<br>
 
 <br>
 
@@ -75,8 +76,6 @@ We are working with the following tables.
 
 <br>
 
-* Long term decline in financial metrics continued, with expected surges in August and September, (the start of the school year) and the holday months November and December.  The cause of the steady decline after the peak of December 2020 is unknown.  Further analysis of active marketing campaigns since December 2020 are needed to identify the cause(s).  Another factor that could account for the decline in sales may be related to supply chain disruptions that effected many industries worldwide.
-* Sharp dropoff in Sales January 2022 and continued until the holiday shopping season picked up near the end of the same year. Reason is unknown at this time.  Questions to ask about what happened here: What marketing campaigns were active at this time?  What Social Media activity was driven by us or has it always been consumer driven? What, if any, impact of supply chain disruption may have caused the downward trend.<br>
 * Later we will see that our Loyaly program did do well during the 4 years of analysis, despite any possible causes of general decline in sales metrics.
 
 <br>
