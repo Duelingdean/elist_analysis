@@ -93,22 +93,6 @@ We are working with the following tables.
 
 <br>
 
-<table>
-  <tr>
-    <td align="center">
-      <!--Annual Sales by Region-->
-      <img width="390" height="234" alt="image" src="https://github.com/user-attachments/assets/9bb934a8-e85c-4296-992b-a182d108fc2e" />
-<!--changed width="481" to 390 and height from "289" to 234-->
-<br>
-    </td>
-<td align="center">
-<!--Order by Region-->
-<img width="390" height="234" alt="image" src="https://github.com/user-attachments/assets/39a2f3f6-b579-4093-a42a-c9296bfd4843" />
-<br>
-</td>
-  </tr>
-</table>
-
 <br>
 
 * There is a correlation between marketing channels and regional sales and order counts.
