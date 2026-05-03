@@ -98,9 +98,10 @@ We are working with the following tables.
 
 <br>
 
-* There is a correlation between marketing channels and regional sales and order counts.
-* The North American (NA) region
-* 
+* **Direct is by far the dominant channel, generating 82.6% of total revenue** creating a significant dependency on this one channel. If direct traffic is disrupted, there is no meaningful backup channel.
+* **Email is the second strongest channel at 11.9% of revenue,** though email customers have a lower AOV ($180 vs $277 for Direct), suggesting email is driving promotional rather than full-price purchases.
+* **Social Media generated only 1.1% of revenue over the entire analysis period** 1,293 orders across four years. Campaigns and strategy in this channel need urgent review.
+* **The "Unknown" attribution channel spiked 295% in 2022** ($57K → $226K) while all other channels declined. This points to a breakdown in marketing tracking, we are  unable to identify where sales originate.
 
 <br>
 
