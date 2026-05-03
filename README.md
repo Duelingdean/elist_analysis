@@ -153,10 +153,9 @@ We are working with the following tables.
 
 <!--AoV Growth Loyalty Program Customers-->
 
-* The loyalty program started in YYYY and has an upward growth. After two years customers in the Loyalty program showed more sales than non-Loyalty program customers. <br>
+* The loyalty program started in 2019 and has an upward growth. by 2021, loyalty members represented 53% of total revenue, up from 11% in 2019. <br>
 * Non-loyalty program customers had higher AoV 2019 - 2021 then Loyalty Program customers AoV became $30.00 higher.
 * Recommendation: Keep the loyalty program.  Increase marketing efforts to members of the loyalty program.  This could help stabilize the downward trend after 2022.
-<br>
 
 <br>
 
