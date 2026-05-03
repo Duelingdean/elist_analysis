@@ -88,7 +88,13 @@ We are working with the following tables.
 <br>
 
 <!--Marketing charts channels and regions-->
-<p align="left"><img width="784" height="127" alt="image" src="https://github.com/user-attachments/assets/71a41550-0be2-4a82-ac0a-03baec02920b" /></p>
+<p align="center"><img width="784" height="127" alt="image" src="https://github.com/user-attachments/assets/da5762ea-6513-4bb2-9918-86c47a55f6c7" /></p>
+
+<p align="center"><img width="784" height="127" alt="image" src="https://github.com/user-attachments/assets/29399a98-e7b9-4baa-a6a9-66d4369ed4c7" /></p>
+
+
+<br>
+<p align="center"><img width="611" height="288" alt="image" src="https://github.com/user-attachments/assets/88cadb3c-6831-474d-b36f-39d7be32f432" /></p>
 
 <br>
 
