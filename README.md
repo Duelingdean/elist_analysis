@@ -232,6 +232,12 @@ We are working with the following tables.
 
 <br>
 
+* **Not a single refund was processed within 30 days of purchase.** Nearly 99% of all refunds happened between one and three years after purchase.
+Significant profit loss with such an **overly permissive refund policy.** Refunds were authorized as much as 4+ years after the purchase date.
+* **Anomaly worth noting:** The true minimum number of days from purchase date to refund date is -454 days. After confirming the raw data, there are several refund dates BEFORE the purchase date. This indicates we need to review the refund processing policy and procedures.
+
+<br>
+
 ### Refund Rate by Product
 <!-- Refund by Product, Order count, Refund count, Sum of Refund, Refund Rate% -->
 <p align="left"><img width="700" height="195" alt="image" src="https://github.com/user-attachments/assets/1e52b2b4-f6f8-44a7-b813-01fce8b88db6" /></p>
@@ -244,10 +250,6 @@ We are working with the following tables.
 * **Samsung accessories show the healthiest refund profile** — Cable Pack at 1.4% and Webcam at 2.6% — suggesting lower-cost accessories carry significantly less return risk.
 
 <br>
-
-<!-- Refund by product, Orders, refunded orders, Refund $ and refund rate% -->
-<p align="left"><img width="700" height="195" alt="image" src="https://github.com/user-attachments/assets/2a0a2ee2-c83a-4535-aa77-f349f2dbdba4" /></p>
-
 
 **Refund rate by purchase year tells an interesting story:**
 
