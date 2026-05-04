@@ -1,4 +1,4 @@
-<p aligh"center"><img width="768" height="512" alt="Atlas_Electronix_logo" src="https://github.com/user-attachments/assets/e110aa18-0b12-429d-8c4a-26812054f4b0" /></p>
+<p align="center"><img width="768" height="512" alt="Atlas_Electronix_logo" src="https://github.com/user-attachments/assets/e110aa18-0b12-429d-8c4a-26812054f4b0" /></p>
 
 <!--Color and hex codes:  Purple = #7059A5 and Green = #67AD47-->
 <!-- Heading Sizes # Level 1 = Largest(Main Title), ## Level 2 = Large (Major Section), ### Level 3 = Medium (sub-section), #### Level 4 = small -->
@@ -194,7 +194,7 @@ We are working with the following tables.
 <br>
 
 * The loyalty program started in 2019 and has an upward growth. By 2021, loyalty members represented 53% of total revenue, up from 11% in 2019. <br>
-* Non-loyalty program customers had higher AoV 2019 - 2021 then Loyalty Program customers AoV became $30.00 higher.
+* Non-loyalty program customers had higher AoV 2019 - 2021, until Loyalty Program customers AoV became $30.00 higher.
 
 <br>
 
@@ -237,7 +237,7 @@ We are working with the following tables.
 <br>
 
 * **Not a single refund was processed within 30 days of purchase.** Nearly 99% of all refunds happened between one and three years after purchase.
-Significant profit loss with such an **overly permissive refund policy.** Refunds were authorized as much as 4+ years after the purchase date.
+* Significant profit loss with such an **overly permissive refund policy.** Refunds were authorized as much as 4+ years after the purchase date.
 * **Anomaly worth noting:** The true minimum number of days from purchase date to refund date is -454 days. After confirming the raw data, there are several refund dates BEFORE the purchase date. This indicates we need to review the refund processing policy and procedures.
 
 <br>
