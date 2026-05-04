@@ -77,11 +77,7 @@ We are working with the following tables.
 <p align="center"><img width="442" height="132" alt="image" src="https://github.com/user-attachments/assets/ff54d05a-bfb8-48aa-97f6-b5a5370d33a8" /></p>
 
 <br>
-
 * Due to the pandemic, annual sales in 2020 were higher than the previous year 2019.  Since then annual sales have fallen.  Minimally in 2021 at -10% and significantly in 2022 at -46% after 2021's decline.
-
-<br>
-
 * Despite the overall decline in sales metrics, the Loyalty program showed consistent growth throughout the analysis period — detailed in the Loyalty Program section below.
 
 <br>
@@ -117,7 +113,7 @@ We are working with the following tables.
 <br>
 
 <!-- Average Ship days - mobile / website -->
-<img width="270" height="435" alt="image" src="https://github.com/user-attachments/assets/e2bda624-a101-45ec-97df-ff675671bc14" />
+<img width="270" height="352" alt="image" src="https://github.com/user-attachments/assets/4ee7e8aa-aac1-4235-8eb5-f9a004b24473" />
 
 <br>
 
