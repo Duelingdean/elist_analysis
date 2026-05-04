@@ -171,39 +171,52 @@ We are working with the following tables.
 <!--Table of Days of refund after purchase-->
 <img width="380" height="89" alt="image" src="https://github.com/user-attachments/assets/ad692d10-212d-4b57-a707-2c40a51fb6fc" />
 
+<img width="255" height="177" alt="image" src="https://github.com/user-attachments/assets/13b9a2d0-a95d-46a0-a90b-c1f30451f9cf" />
+
+
 <br>
 
-* Signifcant profit loss with such a lazefair attatude to refunds.  Refunds were authorized as much as 4+ years after the purchase date.
+* **Not a single refund was processed within 30 days of purchase.** Nearly 99% of all refunds happened between one and three years after purchase.
+* Signifcant profit loss with such a **overly permissive refund policy.**  Refunds were authorized as much as 4+ years after the purchase date.
+* Anomely worth noting: The true minimum number of days from purchase date to refund date is -454 days.  After confirming the raw data, there is several Refund dates BEFORE the purchase date.  This indicates we need to review the refund processing policy and proceedures.
+
+* Refund rate by purchase year tells an interesting story:
+
+2019: 5.7% of orders refunded
+2020: 9.2% of orders refunded
+2021: 3.6% of orders refunded
+2022: 0.1% of orders refunded
+
+The 2022 rate is near zero — but that's almost certainly because 2022 purchases haven't had enough time to generate refunds yet, given refunds typically take 1-3 years to appear. Worth noting as context.
+
+* Two high ticket items - Macbook Air and 27in Monitor drive the most refund dollars:
+
+Macbook Air: $739K total refunds, average refund $1,648
+27in Monitor: $641K total refunds, average refund $445
 
 # Recommendations
 <br>
 
-| Priority |    Recommendation    | Department
-| :------- | :---------------: | :---
-|   High   |  Expand Market channels | Marketing
-| Medium | Expand marketing efforts in LATAM region | Marketing
-| High | Review Refund Policy |
+| Priority |    Recommendation    | Based On  |  Owner
+| :------- | :---------------: | :---------------: | :---
+| High | Impliment a 90 day refund policy | Avg refund at 738 days costing $2.2M | Operations
+| High | Increase Marketing channel distribution | 82.6% revenue from one channel | Marketing
+| Medium | Expand Loyalty Program marketing | Loyalty AOV $31 higher in 2022 | Marketing
+| Medium | Review or discontinu Bose Soundsport | 27 units sold in 4 years | Product
+| Low | Expand LATAM marketing efforts | Lowest region generating revenue and orders | Marketing
+| Low | Fix Marketing tracking | Unknown channel spiked 295% in 2022 | Data 
 
 <br>
 
-| Left columns  | Right columns |
-| ------------- |:-------------:|
-| left foo      | right foo     |
-| left bar      | right bar     |
-| left baz      | right baz     |
+## Recommendations
 
+| Priority | Recommendation | Based On | Owner |
+|---|---|---|---|
+| 🔴 High | **Implement a 90-day refund policy** | Average refund at 738 days, $2.2M in refunds | Operations |
+| 🔴 High | **Reduce direct channel dependency** | 82.6% of revenue from one channel | Marketing |
+| 🟡 Medium | **Expand loyalty program marketing** | Loyalty AOV $31 higher than non-loyalty in 2022 | Marketing |
+| 🟡 Medium | **Review or discontinue Bose Soundsport** | 27 units sold across entire analysis period | Product |
+| 🟢 Low | **Expand LATAM marketing efforts** | Lowest region by revenue and orders | Marketing |
+| 🟢 Low | **Fix marketing attribution tracking** | Unknown channel spiked 295% in 2022 | Analytics |
 
-Marketing Efforts
-* Look at expanding efforts in marketing channels, email, affiliate marketing and social media.
-* Look at better market traking effors to reduce or eliminate "unknown" sources.
-* 
-
-Products
-* Consider expanding the product line to include add-on products such as 
-* Look at low cost items to increase units sold, such as batteries, chargers, charging cords, screen cleaners, batteries, etc. to create a one stop shopping experience for consumers.
-
-Loyalty Program
-* Continue with the loyalty program.  Continued growth of this program has increased sales.
-* Working with marketing consider member discounts, monthly specials to entice subscriptions to loyalty program and return customers.  Give them something to want to be a member.
-* 
-
+While the 2022 revenue decline reflects a broader market-wide normalization following the COVID-driven surge, the loyalty program's continued growth and stronger AOV point to a resilient customer base worth investing in. The most immediate priorities are operational — tightening the refund policy and reducing single-channel revenue dependency — both of which can be addressed without requiring new customer acquisition. With the right focus, Atlas Electronix is well positioned to stabilize and grow from its loyal customer foundation.
