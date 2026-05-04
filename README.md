@@ -102,8 +102,6 @@ We are working with the following tables.
 
 <br>
 
-<br>
-
 * **Direct is by far the dominant channel, generating 82.6% of total revenue** creating a significant dependency on this one channel. If direct traffic is disrupted, there is no meaningful backup channel.
 * **Email is the second strongest channel at 11.9% of revenue,** though email customers have a lower AOV ($180 vs $277 for Direct), suggesting email is driving promotional rather than full-price purchases.
 * **Social Media generated only 1.1% of revenue over the entire analysis period** 1,293 orders across four years. Campaigns and strategy in this channel need urgent review.
@@ -116,7 +114,6 @@ We are working with the following tables.
 
 <!--Total Units Sold by Product-->
 <p align="center"><img width="481" height="292" alt="image" src="https://github.com/user-attachments/assets/d3423f01-e75a-45e2-b3e7-1b50156370a6" /></p>
-
 
 <br>
 
@@ -135,7 +132,7 @@ We are working with the following tables.
 <p align="center"><img width="423" height="85" alt="image" src="https://github.com/user-attachments/assets/a0426e9d-26cf-4900-b8ba-27a1dc3b2e20" /><p>
 <br>
 * Social Media is the poorest generation of sales and orders.  Need to look at the campaigns used in Social Media.  If there were no campaigns then Social Media users may have been the driving factor influencing sales in this channel.
-* 
+
 <br>
 
 # Loyalty Program
@@ -171,8 +168,10 @@ We are working with the following tables.
 <!--Table of Days of refund after purchase-->
 <img width="380" height="89" alt="image" src="https://github.com/user-attachments/assets/ad692d10-212d-4b57-a707-2c40a51fb6fc" />
 
-<img width="255" height="177" alt="image" src="https://github.com/user-attachments/assets/13b9a2d0-a95d-46a0-a90b-c1f30451f9cf" />
+<br>
 
+<!-- Refund Timing Distribution -->
+<img width="255" height="177" alt="image" src="https://github.com/user-attachments/assets/13b9a2d0-a95d-46a0-a90b-c1f30451f9cf" />
 
 <br>
 
@@ -187,7 +186,7 @@ We are working with the following tables.
 2021: 3.6% of orders refunded
 2022: 0.1% of orders refunded
 
-The 2022 rate is near zero — but that's almost certainly because 2022 purchases haven't had enough time to generate refunds yet, given refunds typically take 1-3 years to appear. Worth noting as context.
+The 2022 rate is near zero — but that's almost certainly because 2022 purchases haven't had enough time to generate refunds yet, given refunds typically take 1-3 years to appear.
 
 * Two high ticket items - Macbook Air and 27in Monitor drive the most refund dollars:
 
@@ -197,18 +196,7 @@ Macbook Air: $739K total refunds, average refund $1,648
 # Recommendations
 <br>
 
-| Priority |    Recommendation    | Based On  |  Owner
-| :------- | :---------------: | :---------------: | :---
-| High | Impliment a 90 day refund policy | Avg refund at 738 days costing $2.2M | Operations
-| High | Increase Marketing channel distribution | 82.6% revenue from one channel | Marketing
-| Medium | Expand Loyalty Program marketing | Loyalty AOV $31 higher in 2022 | Marketing
-| Medium | Review or discontinu Bose Soundsport | 27 units sold in 4 years | Product
-| Low | Expand LATAM marketing efforts | Lowest region generating revenue and orders | Marketing
-| Low | Fix Marketing tracking | Unknown channel spiked 295% in 2022 | Data 
-
 <br>
-
-## Recommendations
 
 | Priority | Recommendation | Based On | Owner |
 |---|---|---|---|
@@ -216,7 +204,10 @@ Macbook Air: $739K total refunds, average refund $1,648
 | 🔴 High | **Reduce direct channel dependency** | 82.6% of revenue from one channel | Marketing |
 | 🟡 Medium | **Expand loyalty program marketing** | Loyalty AOV $31 higher than non-loyalty in 2022 | Marketing |
 | 🟡 Medium | **Review or discontinue Bose Soundsport** | 27 units sold across entire analysis period | Product |
+| 🟡 Medium | Expand product line with low cost accessories | Cable pack and webcam show steady accessory demand | Product |
 | 🟢 Low | **Expand LATAM marketing efforts** | Lowest region by revenue and orders | Marketing |
 | 🟢 Low | **Fix marketing attribution tracking** | Unknown channel spiked 295% in 2022 | Analytics |
+
+<br>
 
 While the 2022 revenue decline reflects a broader market-wide normalization following the COVID-driven surge, the loyalty program's continued growth and stronger AOV point to a resilient customer base worth investing in. The most immediate priorities are operational — tightening the refund policy and reducing single-channel revenue dependency — both of which can be addressed without requiring new customer acquisition. With the right focus, Atlas Electronix is well positioned to stabilize and grow from its loyal customer foundation.
