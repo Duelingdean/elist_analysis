@@ -147,7 +147,10 @@ We are working with the following tables.
 
 * Standout issue, Bose Soundsport Headphones, with only 27 units sold in the analysis period, this is a dead sku.  Need to evaluate if shelf space could be better used for a product in demand. Alternatively, direct efforts to highlight this product with promotions to increase sales.
 * Majority of units sold and revenue come from half of the product line Apple Airpods Headphones, 27in 4K gaming monitor, Macbook Air Laptop and ThinkPad Laptop.  With more than 95% of sales and 73% of orders, if there is any supply chain interruption this could be problematic and detrimental to revenue and profitability.
-<p align="center"><img width="423" height="85" alt="image" src="https://github.com/user-attachments/assets/a0426e9d-26cf-4900-b8ba-27a1dc3b2e20" /><p>
+
+<br>
+
+<p align="center"><img width="746" height="211" alt="image" src="https://github.com/user-attachments/assets/933b5c24-4175-463a-b924-0403b43ef239" /><p>
 <br>
 
 ### MacBook Air - North America
