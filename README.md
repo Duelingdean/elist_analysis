@@ -23,7 +23,7 @@ Analysis, insights and recommendations are provided on the following key areas:
 # ERD
 We are working with the following tables.
 <!--Image of ERD-->
-<img width="613" height="349" alt="image" src="https://github.com/user-attachments/assets/e596db49-5155-482d-88ca-148192a303e3" />
+<p align="center"><img width="613" height="349" alt="image" src="https://github.com/user-attachments/assets/e596db49-5155-482d-88ca-148192a303e3" /></p>
 
 <br>
 
@@ -74,7 +74,7 @@ We are working with the following tables.
 <br>
 
 <!--Yearly Growth Rate-->
-<p align="center"><img width="442" height="132" alt="image" src="https://github.com/user-attachments/assets/ff54d05a-bfb8-48aa-97f6-b5a5370d33a8" /></p>
+<p align="center"><img width="442" height="132" alt="image" src="https://github.com/user-attachments/assets/ef845cd9-3655-4110-b773-c29f0a59cf6c" /></p>
 
 <br>
 
@@ -112,12 +112,12 @@ We are working with the following tables.
 <br>
 
 <!-- Overall 4 region 5.5 days delivery, all years, by region -->
-<img width="261" height="111" alt="image" src="https://github.com/user-attachments/assets/3ddc3ece-5961-46e1-b6b5-067c80e30b25" />
+<p align="center"><img width="261" height="111" alt="image" src="https://github.com/user-attachments/assets/3ddc3ece-5961-46e1-b6b5-067c80e30b25" /></p>
 
 <br>
 
 <!-- Average Ship days - mobile / website -->
-<img width="270" height="352" alt="image" src="https://github.com/user-attachments/assets/4ee7e8aa-aac1-4235-8eb5-f9a004b24473" />
+<p align="center"><img width="270" height="352" alt="image" src="https://github.com/user-attachments/assets/4ee7e8aa-aac1-4235-8eb5-f9a004b24473" /></p>
 
 <br>
 
@@ -130,17 +130,17 @@ We are working with the following tables.
 <br>
 
 <!--Total Units Sold by Product-->
-<p align="center"><img width="481" height="292" alt="image" src="https://github.com/user-attachments/assets/d3423f01-e75a-45e2-b3e7-1b50156370a6" /></p>
+<p align="left"><img width="481" height="292" alt="image" src="https://github.com/user-attachments/assets/d3423f01-e75a-45e2-b3e7-1b50156370a6" /></p>
 
 <br>
 
 <!--Total Sales By Product-->
-<img width="768" height="288" alt="image" src="https://github.com/user-attachments/assets/09abcac6-3357-407d-ad21-f96da66bfdc8" />
+<p align"left"><img width="768" height="288" alt="image" src="https://github.com/user-attachments/assets/09abcac6-3357-407d-ad21-f96da66bfdc8" /></p>
 
 <br>
 
 <!--AoV by product-->
-<img width="768" height="288" alt="image" src="https://github.com/user-attachments/assets/c7a4d934-2e79-44fd-b64b-3e785146ceb0" />
+<p align="left"><img width="768" height="288" alt="image" src="https://github.com/user-attachments/assets/c7a4d934-2e79-44fd-b64b-3e785146ceb0" /></p>
 
 <br>
 
@@ -222,17 +222,17 @@ We are working with the following tables.
 <br>
 
 <!--Table of refunds by year-->
-<img width="338" height="110" alt="image" src="https://github.com/user-attachments/assets/6ff64964-d1d3-4097-b01a-dfa81540b6b2" />
+<p align="center"><img width="338" height="110" alt="image" src="https://github.com/user-attachments/assets/6ff64964-d1d3-4097-b01a-dfa81540b6b2" /></p>
 
 <br>
 
 <!--Table of Days of refund after purchase-->
-<img width="380" height="89" alt="image" src="https://github.com/user-attachments/assets/ad692d10-212d-4b57-a707-2c40a51fb6fc" />
+<p align="center"><img width="380" height="89" alt="image" src="https://github.com/user-attachments/assets/ad692d10-212d-4b57-a707-2c40a51fb6fc" /></p>
 
 <br>
 
 <!-- Refund Timing Distribution -->
-<img width="255" height="177" alt="image" src="https://github.com/user-attachments/assets/13b9a2d0-a95d-46a0-a90b-c1f30451f9cf" />
+<p align="center"><img width="255" height="177" alt="image" src="https://github.com/user-attachments/assets/13b9a2d0-a95d-46a0-a90b-c1f30451f9cf" /></p>
 
 <br>
 
@@ -244,7 +244,7 @@ We are working with the following tables.
 
 ### Refund Rate by Product
 <!-- Refund by Product, Order count, Refund count, Sum of Refund, Refund Rate% -->
-<p align="left"><img width="700" height="195" alt="image" src="https://github.com/user-attachments/assets/1e52b2b4-f6f8-44a7-b813-01fce8b88db6" /></p>
+<p align="center"><p align="center"><p align="left"><img width="700" height="195" alt="image" src="https://github.com/user-attachments/assets/1e52b2b4-f6f8-44a7-b813-01fce8b88db6" /></p>
 
 <br>
 
