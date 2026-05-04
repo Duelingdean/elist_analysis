@@ -77,6 +77,7 @@ We are working with the following tables.
 <p align="center"><img width="442" height="132" alt="image" src="https://github.com/user-attachments/assets/ff54d05a-bfb8-48aa-97f6-b5a5370d33a8" /></p>
 
 <br>
+
 * Due to the pandemic, annual sales in 2020 were higher than the previous year 2019.  Since then annual sales have fallen.  Minimally in 2021 at -10% and significantly in 2022 at -46% after 2021's decline.
 * Despite the overall decline in sales metrics, the Loyalty program showed consistent growth throughout the analysis period — detailed in the Loyalty Program section below.
 
@@ -193,7 +194,7 @@ We are working with the following tables.
 
 <br>
 
-### Customer Purchase Behavior - Loyalty vs Non-Loyalty Customers
+### Customer Purchase Behavior - Loyalty vs Non-Loyalty Customers - AVG number of days until 1st purchase
 
 <br>
 
@@ -259,7 +260,7 @@ The 2022 rate is near zero — but that's almost certainly because 2022 purchase
 
 <br>
 
-<p align="center"># Recommendations</p>
+# <p align="center">Recommendations</p>
 
 <br>
 
