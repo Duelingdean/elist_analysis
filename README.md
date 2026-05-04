@@ -206,6 +206,11 @@ We are working with the following tables.
 <!-- Loyalty vs NL by year -->
 <img width="194" height="106" alt="image" src="https://github.com/user-attachments/assets/1c9af947-20ec-43f6-a0ec-b799ab8e8525" />
 
+<br>
+
+* **In 2019 non-loyalty customers converted faster** taking only 40 days average vs 49 for loyalty members, suggesting early loyalty program benefits were not yet compelling enough to accelerate purchasing behavior.
+* **By 2022 loyalty members were purchasing 57 days faster than non-loyalty customers.** 160 days vs 217 days, demonstrating that as the overall market cooled, the loyalty program maintained significantly stronger customer engagement.
+* **The growing gap between loyalty and non-loyalty conversion time each year** is one of the strongest indicators of loyalty program health, loyal customers are becoming more responsive relative to non-loyalty customers over time.
 
 
 ## Refund Rates
