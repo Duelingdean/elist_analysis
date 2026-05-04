@@ -1,6 +1,7 @@
 <p aligh"center"><img width="768" height="512" alt="Atlas_Electronix_logo" src="https://github.com/user-attachments/assets/e110aa18-0b12-429d-8c4a-26812054f4b0" /></p>
 
 <!--Color and hex codes:  Purple = #7059A5 and Green = #67AD47-->
+<!-- Heading Sizes # Level 1 = Largest(Main Title), ## Level 2 = Large (Major Section), ### Level 3 = Medium (sub-section), #### Level 4 = small -->
 
 # <p align="center">Atlas Electronix</p>
 <p align="center">Sales trends analysis for an e-commerce company.<p>
@@ -19,17 +20,19 @@ Analysis, insights and recommendations are provided on the following key areas:
 
 * **Regional Comparisons:** An evaluation of sales and orders by region.
 
-## ERD
+# ERD
 We are working with the following tables.
 <!--Image of ERD-->
 <img width="613" height="349" alt="image" src="https://github.com/user-attachments/assets/e596db49-5155-482d-88ca-148192a303e3" />
 
 <br>
 
+<!-- Main title -->
 # <p align="center">Deep-Dive Insights</p>
 
 <br>
 
+<!-- Major Section -->
 ## Sales Trends
 
 <br>
@@ -83,7 +86,7 @@ We are working with the following tables.
 
 <br>
 
-# Marketing Efforts
+## Marketing Efforts
 
 <br>
 
@@ -109,7 +112,20 @@ We are working with the following tables.
 
 <br>
 
-# Product Trends
+## Operational Performance
+
+<br>
+
+<!-- Average Ship days - mobile / website -->
+<img width="270" height="435" alt="image" src="https://github.com/user-attachments/assets/e2bda624-a101-45ec-97df-ff675671bc14" />
+
+<br>
+
+* **Delivery time is consistent globally at an average of 5 days** during 2022, all regions, on the mobile app and website platforms,  indicating a well-managed and equitable fulfillment operation.
+* **No meaningful difference exists between website and mobile app purchases** in delivery time, suggesting the fulfillment process operates independently of how the order was placed.
+
+
+## Product Trends
 <br>
 
 <!--Total Units Sold by Product-->
@@ -128,29 +144,42 @@ We are working with the following tables.
 <br>
 
 
-
-
-
 * Standout issue, Bose Soundsport Headphones, with only 27 units sold in the analysis period, this is a dead sku.  Need to evaluate if shelf space could be better used for a product in demand. Alternatively, direct efforts to highlight this product with promotions to increase sales.
 * Majority of units sold and revenue come from half of the product line Apple Airpods Headphones, 27in 4K gaming monitor, Macbook Air Laptop and ThinkPad Laptop.  With more than 95% of sales and 73% of orders, if there is any supply chain interruption this could be problematic and detrimental to revenue and profitability.
 <p align="center"><img width="423" height="85" alt="image" src="https://github.com/user-attachments/assets/a0426e9d-26cf-4900-b8ba-27a1dc3b2e20" /><p>
 <br>
 
-## MacBook Air - North America
+### MacBook Air - North America
 <br>
 
 <!-- MacBook Air - North America heatmap -->
 <p align="center"><img width="660" height="358" alt="image" src="https://github.com/user-attachments/assets/9d60a836-616d-4f9a-a7cf-c036f71d638d" /></p>
 
 <br>
-* **MacBook Air NA sales peaked in Q2-Q4 2020** driven by COVID remote work demand, reaching over 260 orders per quarter and more than $400K in quarterly revenue, more than triple the pre-pandemic quarterly average.<br>
+
+* **MacBook Air NA sales peaked in Q2-Q4 2020** driven by COVID remote work demand, reaching over 260 orders per quarter and more than $400K in quarterly revenue, more than triple the pre-pandemic quarterly average.
 * **AOV remained remarkably stable throughout all 16 quarters,** ranging from $1,431 to $1,696, confirming that price was never the issue, volume was the driver of both growth and decline.<br>
 * **The steepest single-quarter drop was Q4 2022,** falling to just 31 orders and $44K revenue, less than what a single quarter in early 2019 produced before the pandemic surge.<br>
 * **Recovery did not materialize in 2022,** every quarter declined sequentially, consistent with the broader COVID demand normalization story across the whole business.
 
 <br>
 
-# Loyalty Program
+### Most popular product by region
+
+<br>
+
+<!-- Most popular product each region -->
+<p align="center"><img width="309" height="127" alt="image" src="https://github.com/user-attachments/assets/fdd9a602-8050-480f-be95-6df8a317d070" /></p>
+
+<br>
+
+* **Apple AirPods Headphones is the most popular product in every region globally** — North America, Europe|Middle East | Africa, Asia Pacific and Latin America — with no regional variation in customer preference at the top of the product line.
+* **North America drives the largest share of AirPod orders at 24,891** — nearly double EMEA's 15,171 and more than four times APAC and LATAM combined.
+* **The global consistency of AirPod dominance reinforces the product concentration risk** already identified — a supply chain disruption to this single SKU would impact every market simultaneously with no regional fallback.
+
+<br>
+
+## Loyalty Program
 <br>
 
 <!--Sales by Loyalty Status-->
@@ -168,7 +197,21 @@ We are working with the following tables.
 
 <br>
 
-# Refund Rates
+### Customer Purchase Behavior - Loyalty vs Non-Loyalty Customers
+
+<br>
+
+<!-- AVG days until 1st purchase: L vs NL -->
+<img width="422" height="64" alt="image" src="https://github.com/user-attachments/assets/6861fe0b-8d34-41aa-bf1c-081fd94f601a" />
+
+<br>
+
+<!-- Loyalty vs NL by year -->
+<img width="194" height="106" alt="image" src="https://github.com/user-attachments/assets/1c9af947-20ec-43f6-a0ec-b799ab8e8525" />
+
+
+
+## Refund Rates
 
 <br>
 
@@ -187,9 +230,22 @@ We are working with the following tables.
 
 <br>
 
-* **Not a single refund was processed within 30 days of purchase.** Nearly 99% of all refunds happened between one and three years after purchase.
-* Significant profit loss with such a **overly permissive refund policy.**  Refunds were authorized as much as 4+ years after the purchase date.
-* Anomaly worth noting: The true minimum number of days from purchase date to refund date is -454 days.  After confirming the raw data, there are several Refund dates BEFORE the purchase date.  This indicates we need to review the refund processing policy and procedures.
+### Refund Rate by Product
+<!-- Refund by Product, Order count, Refund count, Sum of Refund, Refund Rate% -->
+<p align="left"><img width="700" height="195" alt="image" src="https://github.com/user-attachments/assets/1e52b2b4-f6f8-44a7-b813-01fce8b88db6" /></p>
+
+<br>
+
+* **The two laptop products carry the highest refund rates in the product line** — ThinkPad at 11.7% and MacBook Air at 11.3% — meaning nearly 1 in 8 laptop purchases is ultimately refunded.
+* **High refund counts on the Monitor and AirPods** — 1,443 and 2,631 respectively — reflect their high order volumes rather than poor product quality, as their refund rates of 6.2% and 5.4% are more moderate.
+* **The Apple iPhone warrants monitoring** — a 7.6% refund rate on a low volume product could become a material cost if iPhone inventory is expanded.
+* **Samsung accessories show the healthiest refund profile** — Cable Pack at 1.4% and Webcam at 2.6% — suggesting lower-cost accessories carry significantly less return risk.
+
+<br>
+
+<!-- Refund by product, Orders, refunded orders, Refund $ and refund rate% -->
+<p align="left"><img width="700" height="195" alt="image" src="https://github.com/user-attachments/assets/2a0a2ee2-c83a-4535-aa77-f349f2dbdba4" /></p>
+
 
 **Refund rate by purchase year tells an interesting story:**
 
@@ -205,7 +261,10 @@ The 2022 rate is near zero — but that's almost certainly because 2022 purchase
 * Macbook Air: $739K total refunds, average refund $1,648
 * 27in Monitor: $641K total refunds, average refund $445
 
-# Recommendations
+<br>
+
+<p align="center"># Recommendations</p>
+
 <br>
 
 <br>
