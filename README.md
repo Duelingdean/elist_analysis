@@ -92,9 +92,7 @@ We are working with the following tables.
 
 <p align="center"><img width="784" height="127" alt="image" src="https://github.com/user-attachments/assets/29399a98-e7b9-4baa-a6a9-66d4369ed4c7" /></p>
 
-
-<br>
-<p align="center"><img width="611" height="288" alt="image" src="https://github.com/user-attachments/assets/88cadb3c-6831-474d-b36f-39d7be32f432" /></p>
+<br><p align="center"><img width="611" height="288" alt="image" src="https://github.com/user-attachments/assets/88cadb3c-6831-474d-b36f-39d7be32f432" /></p>
 
 <br>
 
@@ -105,11 +103,16 @@ We are working with the following tables.
 * **Direct is by far the dominant channel, generating 82.6% of total revenue** creating a significant dependency on this one channel. If direct traffic is disrupted, there is no meaningful backup channel.
 * **Email is the second strongest channel at 11.9% of revenue,** though email customers have a lower AOV ($180 vs $277 for Direct), suggesting email is driving promotional rather than full-price purchases.
 * **Social Media generated only 1.1% of revenue over the entire analysis period** 1,293 orders across four years. Campaigns and strategy in this channel need urgent review.
-* **The "Unknown" attribution channel spiked 295% in 2022** ($57K → $226K) while all other channels declined. This points to a breakdown in marketing tracking, we are  unable to identify where sales originate.
+* **The "Unknown" attribution channel spiked 295% in 2022** ($57K → $226K) while all other channels declined. This points to a breakdown in marketing tracking, we are unable to identify where sales originate.
 
 <br>
 
 ## Operational Performance
+
+<br>
+
+<!-- Overall 4 region 5.5 days delivery, all years, by region -->
+<img width="261" height="111" alt="image" src="https://github.com/user-attachments/assets/3ddc3ece-5961-46e1-b6b5-067c80e30b25" />
 
 <br>
 
@@ -118,9 +121,10 @@ We are working with the following tables.
 
 <br>
 
-* **Delivery time is consistent globally at an average of 5 days** during 2022, all regions, on the mobile app and website platforms,  indicating a well-managed and equitable fulfillment operation.
+* **Delivery time is consistent globally at an average of 5 days** during 2022, all regions, on the mobile app and website platforms, indicating a well-managed and equitable fulfillment operation.
 * **No meaningful difference exists between website and mobile app purchases** in delivery time, suggesting the fulfillment process operates independently of how the order was placed.
 
+<br>
 
 ## Product Trends
 <br>
@@ -170,7 +174,7 @@ We are working with the following tables.
 
 <br>
 
-* **Apple AirPods Headphones is the most popular product in every region globally** — North America, Europe|Middle East | Africa, Asia Pacific and Latin America — with no regional variation in customer preference at the top of the product line.
+* **Apple AirPods Headphones is the most popular product in every region globally** — North America, Europe/Middle East/Africa, Asia Pacific and Latin America — with no regional variation in customer preference at the top of the product line.
 * **North America drives the largest share of AirPod orders at 24,891** — nearly double EMEA's 15,171 and more than four times APAC and LATAM combined.
 * **The global consistency of AirPod dominance reinforces the product concentration risk** already identified — a supply chain disruption to this single SKU would impact every market simultaneously with no regional fallback.
 
@@ -189,7 +193,7 @@ We are working with the following tables.
 
 <br>
 
-* The loyalty program started in 2019 and has an upward growth. by 2021, loyalty members represented 53% of total revenue, up from 11% in 2019. <br>
+* The loyalty program started in 2019 and has an upward growth. By 2021, loyalty members represented 53% of total revenue, up from 11% in 2019. <br>
 * Non-loyalty program customers had higher AoV 2019 - 2021 then Loyalty Program customers AoV became $30.00 higher.
 
 <br>
@@ -256,7 +260,7 @@ Significant profit loss with such an **overly permissive refund policy.** Refund
 * 2019: 5.7% of orders refunded
 * 2020: 9.2% of orders refunded
 * 2021: 3.6% of orders refunded
-*2022: 0.1% of orders refunded
+* 2022: 0.1% of orders refunded
 
 The 2022 rate is near zero — but that's almost certainly because 2022 purchases haven't had enough time to generate refunds yet, given refunds typically take 1-3 years to appear.
 
