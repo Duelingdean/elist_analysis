@@ -7,17 +7,17 @@
 
 
 # Overview
-Atlas Electronix, established in 2019, is an e-commerce company that sells popular electronic products worldwide. Through various marketing channels: affiliated marketing, direct mail, email and social media Atlas Electronix reaches a global market.  Products come from major consumer electronics companies such as Apple, Bose, Lenovo and Samsung.  The company has a significant amount of data on its sales, marketing efforts, operational efficiency, product offerings and loyalty program that has been previously underutilized. This project analyzes and synthesizes this data, for the years 2019 - 2022, in order to uncover critical insights that will improve Atlas Electronix's commercial success.
+Atlas Electronix, established in 2019, is an e-commerce company that sells popular electronic products worldwide. Through various marketing channels: affiliate marketing, direct, email and social media Atlas Electronix reaches a global market.  Products come from major consumer electronics companies such as Apple, Bose, Lenovo and Samsung.  The company has a significant amount of data on its sales, marketing efforts, operational efficiency, product offerings and loyalty program that has been previously underutilized. This project analyzes and synthesizes this data, for the years 2019 - 2022, in order to uncover critical insights that will improve Atlas Electronix's commercial success.
 
 Analysis, insights and recommendations are provided on the following key areas:
 
-- **Sales Trends Analysis:** Evaluation of historical sales patterns, both globally and by region, focusing on Revenue, Order Volume, and Average Order Value (AOV).
+* **Sales Trends Analysis:** Evaluation of historical sales patterns, both globally and by region, focusing on Revenue, Order Volume, and Average Order Value (AOV).
 
-- **Product Level Performance:** An analysis of Atlas Electronix's various product lines, understanding their impact on sales and returns.
+* **Product Level Performance:** An analysis of Atlas Electronix's various product lines, understanding their impact on sales and returns.
 
 * **Loyalty Program Success:** An assessment of the loyalty program on customer retention and sales.
 
-+ **Regional Comparisons:** An evaluation of sales and orders by region.
+* **Regional Comparisons:** An evaluation of sales and orders by region.
 
 ## ERD
 We are working with the following tables.
@@ -75,11 +75,11 @@ We are working with the following tables.
 
 <br>
 
-* Due to the pandemic, annual sales in 2020 were higher than the previous year 2019.  Since then annual sales have fallen.  Minimally in 2021 at -10% and significally in 2022 at -46% after 2021's decline.
+* Due to the pandemic, annual sales in 2020 were higher than the previous year 2019.  Since then annual sales have fallen.  Minimally in 2021 at -10% and significantly in 2022 at -46% after 2021's decline.
 
 <br>
 
-* Later we will see that our Loyaly program did do well during the 4 years of analysis, despite any possible causes of general decline in sales metrics.
+* Despite the overall decline in sales metrics, the Loyalty program showed consistent growth throughout the analysis period — detailed in the Loyalty Program section below.
 
 <br>
 
@@ -128,10 +128,9 @@ We are working with the following tables.
 <br>
 
 * Standout issue, Bose Soundsport Headphones, with only 27 units sold in the analysis period, this is a dead sku.  Need to evaluate if shelf space could be better used for a product in demand. Alternatively, direct efforts to highlight this product with promotions to increase sales.
-* Majority of units sold and revenue come from half of the product line Apple Airpods Headphones, 27in 4K gaming monitor, Macbook Air Laptop and ThinkPad Laptop.  With more than 95% of sales and 93% of orders, if there is any supply chain interuption this could be problematic and detrimental to revenue and profitability.
+* Majority of units sold and revenue come from half of the product line Apple Airpods Headphones, 27in 4K gaming monitor, Macbook Air Laptop and ThinkPad Laptop.  With more than 95% of sales and 73% of orders, if there is any supply chain interruption this could be problematic and detrimental to revenue and profitability.
 <p align="center"><img width="423" height="85" alt="image" src="https://github.com/user-attachments/assets/a0426e9d-26cf-4900-b8ba-27a1dc3b2e20" /><p>
 <br>
-* Social Media is the poorest generation of sales and orders.  Need to look at the campaigns used in Social Media.  If there were no campaigns then Social Media users may have been the driving factor influencing sales in this channel.
 
 <br>
 
@@ -148,11 +147,8 @@ We are working with the following tables.
 
 <br>
 
-<!--AoV Growth Loyalty Program Customers-->
-
 * The loyalty program started in 2019 and has an upward growth. by 2021, loyalty members represented 53% of total revenue, up from 11% in 2019. <br>
 * Non-loyalty program customers had higher AoV 2019 - 2021 then Loyalty Program customers AoV became $30.00 higher.
-* Recommendation: Keep the loyalty program.  Increase marketing efforts to members of the loyalty program.  This could help stabilize the downward trend after 2022.
 
 <br>
 
@@ -176,22 +172,22 @@ We are working with the following tables.
 <br>
 
 * **Not a single refund was processed within 30 days of purchase.** Nearly 99% of all refunds happened between one and three years after purchase.
-* Signifcant profit loss with such a **overly permissive refund policy.**  Refunds were authorized as much as 4+ years after the purchase date.
-* Anomely worth noting: The true minimum number of days from purchase date to refund date is -454 days.  After confirming the raw data, there is several Refund dates BEFORE the purchase date.  This indicates we need to review the refund processing policy and proceedures.
+* Significant profit loss with such a **overly permissive refund policy.**  Refunds were authorized as much as 4+ years after the purchase date.
+* Anomaly worth noting: The true minimum number of days from purchase date to refund date is -454 days.  After confirming the raw data, there are several Refund dates BEFORE the purchase date.  This indicates we need to review the refund processing policy and procedures.
 
-* Refund rate by purchase year tells an interesting story:
+**Refund rate by purchase year tells an interesting story:**
 
-2019: 5.7% of orders refunded
-2020: 9.2% of orders refunded
-2021: 3.6% of orders refunded
-2022: 0.1% of orders refunded
+* 2019: 5.7% of orders refunded
+* 2020: 9.2% of orders refunded
+* 2021: 3.6% of orders refunded
+*2022: 0.1% of orders refunded
 
 The 2022 rate is near zero — but that's almost certainly because 2022 purchases haven't had enough time to generate refunds yet, given refunds typically take 1-3 years to appear.
 
-* Two high ticket items - Macbook Air and 27in Monitor drive the most refund dollars:
+**Two high ticket items - Macbook Air and 27in Monitor drive the most refund dollars:**
 
-Macbook Air: $739K total refunds, average refund $1,648
-27in Monitor: $641K total refunds, average refund $445
+* Macbook Air: $739K total refunds, average refund $1,648
+* 27in Monitor: $641K total refunds, average refund $445
 
 # Recommendations
 <br>
@@ -204,7 +200,7 @@ Macbook Air: $739K total refunds, average refund $1,648
 | 🔴 High | **Reduce direct channel dependency** | 82.6% of revenue from one channel | Marketing |
 | 🟡 Medium | **Expand loyalty program marketing** | Loyalty AOV $31 higher than non-loyalty in 2022 | Marketing |
 | 🟡 Medium | **Review or discontinue Bose Soundsport** | 27 units sold across entire analysis period | Product |
-| 🟡 Medium | Expand product line with low cost accessories | Cable pack and webcam show steady accessory demand | Product |
+| 🟡 Medium | **Expand product line with low cost accessories** | Cable pack and webcam show steady accessory demand | Product |
 | 🟢 Low | **Expand LATAM marketing efforts** | Lowest region by revenue and orders | Marketing |
 | 🟢 Low | **Fix marketing attribution tracking** | Unknown channel spiked 295% in 2022 | Analytics |
 
