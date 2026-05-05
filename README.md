@@ -252,7 +252,7 @@ We are working with the following tables.
 
 ### Refund Rate by Product
 <!-- Refund by Product, Order count, Refund count, Sum of Refund, Refund Rate% -->
-<p align="center"><p align="center"><p align="center"><p align="left"><img width="700" height="195" alt="image" src="https://github.com/user-attachments/assets/1e52b2b4-f6f8-44a7-b813-01fce8b88db6" /></p>
+<p align="center"><img width="700" height="195" alt="image" src="https://github.com/user-attachments/assets/1e52b2b4-f6f8-44a7-b813-01fce8b88db6" /></p>
 
 <br>
 
