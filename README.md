@@ -201,6 +201,10 @@ We are working with the following tables.
 
 <br>
 
+<p align = "center"><img width="211" height="22" alt="image" src="https://github.com/user-attachments/assets/c47cea57-cefd-47e9-b621-656eb9b0d509" /></p>
+
+<br>
+
 * The loyalty program started in 2019 and has an upward growth. By 2021, loyalty members represented 53% of total revenue, up from 11% in 2019. <br>
 * Non-loyalty program customers had higher AoV 2019 - 2021, until Loyalty Program customers AoV became $30.00 higher.
 
