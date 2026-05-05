@@ -201,6 +201,7 @@ We are working with the following tables.
 
 <br>
 
+<!--Loyalty and Non Loyalty summarys -->
 <p align = "center"><img width="211" height="22" alt="image" src="https://github.com/user-attachments/assets/c47cea57-cefd-47e9-b621-656eb9b0d509" /></p>
 
 <br>
