@@ -97,7 +97,7 @@ We are working with the following tables.
 <br>
 
 <!--4 year marketing channel Review-->
-<p align="center"><img width="749" height="176" alt="image" src="https://github.com/user-attachments/assets/cb5ac354-b2aa-4d63-8de4-940de83a1b54" /></p>
+<p align="center"><img width="751" height="176" alt="image" src="https://github.com/user-attachments/assets/bb003fa0-ba1a-41cb-8763-f29a88144210" /></p>
 
 <br>
 
