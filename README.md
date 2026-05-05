@@ -78,6 +78,10 @@ We are working with the following tables.
 
 <br>
 
+<p align="center"><img width="550" height="133" alt="image" src="https://github.com/user-attachments/assets/d076ea86-714f-47a6-990b-70e86d8d3d64" /></p>
+
+<br>
+
 * Due to the pandemic, annual sales in 2020 were higher than the previous year 2019.  Since then annual sales have fallen.  Minimally in 2021 at -10% and significantly in 2022 at -46% after 2021's decline.
 * Despite the overall decline in sales metrics, the Loyalty program showed consistent growth throughout the analysis period — detailed in the Loyalty Program section below.
 
