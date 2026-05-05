@@ -211,12 +211,12 @@ We are working with the following tables.
 <br>
 
 <!-- AVG days until 1st purchase: L vs NL -->
-<img width="422" height="64" alt="image" src="https://github.com/user-attachments/assets/6861fe0b-8d34-41aa-bf1c-081fd94f601a" />
+<p align="center"><img width="422" height="64" alt="image" src="https://github.com/user-attachments/assets/6861fe0b-8d34-41aa-bf1c-081fd94f601a" /></p>
 
 <br>
 
 <!-- Loyalty vs NL by year -->
-<img width="194" height="106" alt="image" src="https://github.com/user-attachments/assets/1c9af947-20ec-43f6-a0ec-b799ab8e8525" />
+<p align="center"><img width="194" height="106" alt="image" src="https://github.com/user-attachments/assets/1c9af947-20ec-43f6-a0ec-b799ab8e8525" /></p>
 
 <br>
 
