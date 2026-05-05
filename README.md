@@ -96,7 +96,8 @@ We are working with the following tables.
 
 <br>
 
-<br><img width="725" height="176" alt="image" src="https://github.com/user-attachments/assets/4be7f83c-8ae8-4d42-b213-b7374af2c12c" /></p>
+<!--4 year marketing channel Review-->
+<p align="center"><img width="725" height="176" alt="image" src="https://github.com/user-attachments/assets/4be7f83c-8ae8-4d42-b213-b7374af2c12c" /></p>
 
 <br>
 
