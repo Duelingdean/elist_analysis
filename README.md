@@ -78,7 +78,7 @@ We are working with the following tables.
 
 <br>
 
-<p align="center"><img width="550" height="133" alt="image" src="https://github.com/user-attachments/assets/d076ea86-714f-47a6-990b-70e86d8d3d64" /></p>
+<p align="center"><img width="550" height="133" alt="image" src="https://github.com/user-attachments/assets/db116e0f-aa7b-47fa-a946-557f72956912" /></p>
 
 <br>
 
@@ -97,7 +97,7 @@ We are working with the following tables.
 <br>
 
 <!--4 year marketing channel Review-->
-<p align="center"><img width="725" height="176" alt="image" src="https://github.com/user-attachments/assets/4be7f83c-8ae8-4d42-b213-b7374af2c12c" /></p>
+<p align="center"><img width="749" height="176" alt="image" src="https://github.com/user-attachments/assets/25839029-1df8-4fa2-bb26-f1f8aea7a81e" /></p>
 
 <br>
 
@@ -117,7 +117,7 @@ We are working with the following tables.
 <br>
 
 <!-- Overall 4 region 5.5 days delivery, all years, by region -->
-<p align="center"><img width="261" height="111" alt="image" src="https://github.com/user-attachments/assets/3ddc3ece-5961-46e1-b6b5-067c80e30b25" /></p>
+<p align="center"><img width="261" height="133" alt="image" src="https://github.com/user-attachments/assets/a764688d-054f-4e59-9a55-22fcccd83835" /></p>
 
 <br>
 
